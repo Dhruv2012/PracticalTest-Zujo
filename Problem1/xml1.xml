@@ -1,0 +1,23 @@
+<?xml version= "1.0"?> 
+<main>
+    <frames>
+        <frame>1</frame>
+        <id>1000</id>
+        <xtl>00</xtl>
+        <ytl>01</ytl>
+        <xbr>10</xbr>
+        <ybr>11</ybr>
+        <label>0</label>
+        <complexity>0.75</complexity>
+    </frames>
+    <frames>
+        <frame>2</frame>
+        <id>1001</id>
+        <xtl>01</xtl>
+        <ytl>10</ytl>
+        <xbr>11</xbr>
+        <ybr>00</ybr>
+        <label>1</label>
+        <complexity>0.75</complexity>
+    </frames>
+</main>
