@@ -20,7 +20,9 @@ print(os.listdir(DATASET_PATH))
 df = pd.read_csv(DATASET_PATH + "styles.csv", nrows=6000)
 df['image'] = df.apply(lambda x: str(x['id']) + ".jpg",axis = 1)
 df = df.reset_index(drop=True)
+
 df.head(10)
+print(" ")
 
 import tensorflow as tf
 from tensorflow.keras import Model
@@ -57,7 +59,6 @@ base_model = ResNet50(weights='imagenet',
                       include_top=False, 
                       input_shape = (w, h, 3))
 base_model.trainable = False
-base_model.summary()
 model = tf.keras.Sequential([
     base_model,
     GlobalMaxPooling2D()
@@ -75,7 +76,8 @@ def get_embedding(model, img_name):
     x   = preprocess_input(x)
     return model.predict(x).reshape(-1)
 
-# 
+# Genrerated Embeddings of all the images from images in the dataset
 df['embedding'] = df['image'].swifter.apply(lambda img: get_embedding(model, img))
 df_embs = df['embedding'].apply(pd.Series)
+print("Embeddings generated for all images...")
 
