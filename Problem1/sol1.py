@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 import csv
 import os
 INPUT_DIR = '/home/dhruv/PracTest_Zujo/Problem1'
-
+# INPUT DIRECTORY OF ALL XML FILES
 
 def xmltocsv(input_path,output_path):
     tree = ET.parse(input_path)
@@ -21,7 +21,6 @@ def xmltocsv(input_path,output_path):
     count = 0
     for member in root.findall('frames'):
         fr = []
-        print("entering")
         if count ==0:
             FRAME = member.find('frame').tag
             frame_head.append(FRAME)
@@ -61,6 +60,8 @@ def xmltocsv(input_path,output_path):
     frame_data1.close()
  
 # XML TO CSV CONVERSION 
+print(" ")
+print("CSV Files created:")
 for filename in os.listdir(INPUT_DIR):
     if not filename.endswith('.xml'): continue
     input_fullname = os.path.join(INPUT_DIR, filename)

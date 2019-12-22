@@ -10,6 +10,7 @@ import xml.etree.ElementTree as ET
 import csv
 import os
 INPUT_DIR = '/home/dhruv/PracTest_Zujo/Problem1'
+# INPUT DIRECTORY OF ALL XML FILES
 import pandas as pd
 import numpy as np
 
@@ -22,7 +23,7 @@ def xmltocsv(input_path,output_path):
     count = 0
     for member in root.findall('frames'):
         fr = []
-        print("entering")
+        #print("entering")
         if count ==0:
             FRAME = member.find('frame').tag
             frame_head.append(FRAME)
@@ -62,13 +63,15 @@ def xmltocsv(input_path,output_path):
     frame_data1.close()
 
 # XML TO CSV CONVERSION
+print(" ")
+print("CSV Files created:")
 for filename in os.listdir(INPUT_DIR):
     if not filename.endswith('.xml'): continue
     input_fullname = os.path.join(INPUT_DIR, filename)
     output_fullname = os.path.splitext(input_fullname)[0] + '_csv.csv'
     print(output_fullname)
     xmltocsv(input_fullname,output_fullname)
-
+print(" ")
 
 
 # READING CSV FILES
@@ -82,10 +85,10 @@ for filename in os.listdir(INPUT_DIR):
     x = []
     x = df[df['complexity']>=0.5]
     y = []
-    y = df[df['complexity']<=0.5]
+    y = df[df['complexity']>0.5]
     if(x.shape[0]==0):
         output1.append(os.path.splitext(filename)[0])
-    if(y.shape[0]>0):
+    if(y.shape[0]==0):
         output2.append(os.path.splitext(filename)[0])
         
 # SHOWS CSV FILES WITH COMPLEXITY IS LESS THAN 0.5
@@ -94,7 +97,7 @@ if(len(output1)==0):
 else:
     print("Files with complexity < 0.5 in all the frames are:")
     print(output1)    
-
+print(" ")
 if(len(output2)==0):
     print("THERE ARE NO CSV FILES WITH COMPLEXITY <=0.5")
 else:
