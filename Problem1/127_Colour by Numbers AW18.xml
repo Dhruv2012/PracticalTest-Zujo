@@ -1,0 +1,2815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <flipped>False</flipped>
+      <created>2019-07-15 16:44:48.843345+03:00</created>
+      <updated>2019-12-02 09:49:32.927659+03:00</updated>
+      <labels>
+        <label>
+          <name>swimsuit</name>
+          <attributes>
+            <attribute>
+              <name>complexity</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value>0</default_value>
+              <values>0</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>skirt</name>
+          <attributes>
+            <attribute>
+              <name>complexity</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value>0</default_value>
+              <values>0</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>short</name>
+          <attributes>
+            <attribute>
+              <name>complexity</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value>0</default_value>
+              <values>0</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>trouser</name>
+          <attributes>
+            <attribute>
+              <name>complexity</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value>0</default_value>
+              <values>0</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>dress</name>
+          <attributes>
+            <attribute>
+              <name>complexity</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value>0</default_value>
+              <values>0</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>suit</name>
+          <attributes>
+            <attribute>
+              <name>complexity</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value>0</default_value>
+              <values>0</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>jacket</name>
+          <attributes>
+            <attribute>
+              <name>complexity</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value>0</default_value>
+              <values>0</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>t-shirt</name>
+          <attributes>
+            <attribute>
+              <name>complexity</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value>0</default_value>
+              <values>0</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>shirt</name>
+          <attributes>
+            <attribute>
+              <name>complexity</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value>0</default_value>
+              <values>0</values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+      <original_size>
+        <width>1920</width>
+        <height>1080</height>
+      </original_size>
+    </task>
+    <dumped>2019-12-06 19:07:22.803160+03:00</dumped>
+  </meta>
+  <track id="0" label="dress">
+    <box frame="62" outside="0" occluded="0" keyframe="1" xtl="706.10" ytl="0.00" xbr="1526.10" ybr="994.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="63" outside="0" occluded="0" keyframe="1" xtl="722.10" ytl="0.00" xbr="1543.20" ybr="1002.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="64" outside="0" occluded="0" keyframe="1" xtl="741.70" ytl="0.00" xbr="1555.80" ybr="993.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="65" outside="0" occluded="0" keyframe="1" xtl="758.20" ytl="0.00" xbr="1577.00" ybr="979.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="66" outside="0" occluded="0" keyframe="1" xtl="781.20" ytl="0.00" xbr="1583.20" ybr="969.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="67" outside="0" occluded="0" keyframe="1" xtl="804.70" ytl="0.00" xbr="1591.50" ybr="967.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="68" outside="0" occluded="0" keyframe="1" xtl="820.10" ytl="0.00" xbr="1651.20" ybr="957.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="69" outside="0" occluded="0" keyframe="1" xtl="828.80" ytl="0.00" xbr="1713.00" ybr="933.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="70" outside="0" occluded="0" keyframe="1" xtl="831.40" ytl="0.00" xbr="1768.20" ybr="908.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="71" outside="0" occluded="0" keyframe="1" xtl="838.00" ytl="0.00" xbr="1794.50" ybr="887.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="72" outside="0" occluded="0" keyframe="1" xtl="847.70" ytl="0.00" xbr="1837.80" ybr="883.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="73" outside="0" occluded="0" keyframe="1" xtl="856.10" ytl="0.00" xbr="1891.00" ybr="874.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="74" outside="0" occluded="0" keyframe="1" xtl="858.00" ytl="0.00" xbr="1919.50" ybr="874.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="75" outside="0" occluded="0" keyframe="1" xtl="853.50" ytl="0.00" xbr="1919.50" ybr="877.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="76" outside="0" occluded="0" keyframe="1" xtl="849.30" ytl="0.00" xbr="1919.50" ybr="901.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="77" outside="0" occluded="0" keyframe="1" xtl="852.50" ytl="0.00" xbr="1919.50" ybr="918.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="78" outside="0" occluded="0" keyframe="1" xtl="859.20" ytl="0.00" xbr="1919.50" ybr="926.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="79" outside="0" occluded="0" keyframe="1" xtl="866.80" ytl="0.00" xbr="1919.50" ybr="937.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="80" outside="0" occluded="0" keyframe="1" xtl="867.10" ytl="0.20" xbr="1902.40" ybr="947.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="81" outside="0" occluded="0" keyframe="1" xtl="867.20" ytl="0.00" xbr="1862.50" ybr="947.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="82" outside="0" occluded="0" keyframe="1" xtl="867.30" ytl="0.00" xbr="1830.50" ybr="954.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="83" outside="0" occluded="0" keyframe="1" xtl="867.40" ytl="0.00" xbr="1796.20" ybr="971.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="84" outside="0" occluded="0" keyframe="1" xtl="871.50" ytl="0.00" xbr="1761.20" ybr="996.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="85" outside="0" occluded="0" keyframe="1" xtl="878.60" ytl="0.00" xbr="1727.40" ybr="1001.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="86" outside="0" occluded="0" keyframe="1" xtl="873.10" ytl="0.00" xbr="1688.80" ybr="1001.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="87" outside="0" occluded="0" keyframe="1" xtl="859.10" ytl="0.00" xbr="1647.20" ybr="990.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="88" outside="0" occluded="0" keyframe="1" xtl="857.70" ytl="0.00" xbr="1612.90" ybr="954.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="89" outside="0" occluded="0" keyframe="1" xtl="857.70" ytl="0.00" xbr="1585.80" ybr="923.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="90" outside="0" occluded="0" keyframe="1" xtl="822.20" ytl="0.00" xbr="1571.70" ybr="906.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="91" outside="0" occluded="0" keyframe="1" xtl="786.70" ytl="0.00" xbr="1578.60" ybr="877.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="92" outside="0" occluded="0" keyframe="1" xtl="752.70" ytl="0.00" xbr="1588.50" ybr="874.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="93" outside="0" occluded="0" keyframe="1" xtl="716.30" ytl="0.00" xbr="1591.10" ybr="894.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="94" outside="0" occluded="0" keyframe="1" xtl="671.60" ytl="0.00" xbr="1591.80" ybr="946.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="95" outside="0" occluded="0" keyframe="1" xtl="627.50" ytl="0.00" xbr="1581.70" ybr="973.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="96" outside="0" occluded="0" keyframe="1" xtl="597.30" ytl="0.00" xbr="1567.50" ybr="972.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="97" outside="0" occluded="0" keyframe="1" xtl="588.20" ytl="0.00" xbr="1546.50" ybr="988.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="98" outside="0" occluded="0" keyframe="1" xtl="597.30" ytl="0.00" xbr="1520.60" ybr="988.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="99" outside="0" occluded="0" keyframe="1" xtl="619.90" ytl="0.00" xbr="1484.70" ybr="985.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="100" outside="0" occluded="0" keyframe="1" xtl="651.80" ytl="0.00" xbr="1451.00" ybr="987.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="101" outside="0" occluded="0" keyframe="1" xtl="714.70" ytl="0.00" xbr="1414.60" ybr="981.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="102" outside="0" occluded="0" keyframe="1" xtl="759.30" ytl="0.00" xbr="1380.00" ybr="973.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="103" outside="0" occluded="0" keyframe="1" xtl="742.60" ytl="0.00" xbr="1363.00" ybr="964.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="104" outside="0" occluded="0" keyframe="1" xtl="725.30" ytl="0.00" xbr="1353.10" ybr="949.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="105" outside="0" occluded="0" keyframe="1" xtl="727.10" ytl="0.00" xbr="1345.40" ybr="945.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="106" outside="0" occluded="0" keyframe="1" xtl="743.90" ytl="0.00" xbr="1329.80" ybr="977.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="107" outside="0" occluded="0" keyframe="1" xtl="774.60" ytl="0.00" xbr="1369.00" ybr="993.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="108" outside="0" occluded="0" keyframe="1" xtl="813.50" ytl="0.00" xbr="1401.10" ybr="1004.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="109" outside="0" occluded="0" keyframe="1" xtl="798.50" ytl="0.00" xbr="1438.30" ybr="1014.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="110" outside="0" occluded="0" keyframe="1" xtl="743.60" ytl="0.00" xbr="1475.70" ybr="1045.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="111" outside="1" occluded="0" keyframe="1" xtl="742.10" ytl="2.64" xbr="1474.80" ybr="1046.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="1" label="dress">
+    <box frame="177" outside="0" occluded="0" keyframe="1" xtl="924.20" ytl="225.50" xbr="1561.40" ybr="1005.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="178" outside="0" occluded="0" keyframe="1" xtl="924.10" ytl="251.40" xbr="1576.90" ybr="1044.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="179" outside="0" occluded="0" keyframe="1" xtl="919.60" ytl="275.90" xbr="1593.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="180" outside="0" occluded="0" keyframe="1" xtl="917.10" ytl="294.30" xbr="1607.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="181" outside="0" occluded="0" keyframe="1" xtl="916.10" ytl="311.80" xbr="1623.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="182" outside="0" occluded="0" keyframe="1" xtl="913.50" ytl="340.70" xbr="1640.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="183" outside="0" occluded="0" keyframe="1" xtl="908.20" ytl="371.00" xbr="1658.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="184" outside="0" occluded="0" keyframe="1" xtl="907.70" ytl="393.40" xbr="1674.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="185" outside="0" occluded="0" keyframe="1" xtl="907.40" ytl="413.10" xbr="1691.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="186" outside="0" occluded="0" keyframe="1" xtl="902.30" ytl="440.70" xbr="1709.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="187" outside="0" occluded="0" keyframe="1" xtl="899.50" ytl="464.40" xbr="1688.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="188" outside="0" occluded="0" keyframe="1" xtl="898.20" ytl="478.90" xbr="1616.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="189" outside="0" occluded="0" keyframe="1" xtl="895.80" ytl="503.40" xbr="1544.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="190" outside="0" occluded="0" keyframe="1" xtl="891.00" ytl="518.20" xbr="1487.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="191" outside="0" occluded="0" keyframe="1" xtl="889.00" ytl="536.00" xbr="1443.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="192" outside="0" occluded="0" keyframe="1" xtl="887.50" ytl="548.10" xbr="1447.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="193" outside="0" occluded="0" keyframe="1" xtl="890.20" ytl="557.50" xbr="1461.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="194" outside="0" occluded="0" keyframe="1" xtl="889.50" ytl="573.10" xbr="1471.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="195" outside="0" occluded="0" keyframe="1" xtl="889.70" ytl="579.50" xbr="1486.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="196" outside="0" occluded="0" keyframe="1" xtl="892.90" ytl="584.90" xbr="1499.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="197" outside="0" occluded="0" keyframe="1" xtl="895.30" ytl="590.50" xbr="1518.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="198" outside="0" occluded="0" keyframe="1" xtl="906.50" ytl="595.20" xbr="1536.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="199" outside="0" occluded="0" keyframe="1" xtl="919.40" ytl="603.30" xbr="1548.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="200" outside="0" occluded="0" keyframe="1" xtl="933.00" ytl="611.20" xbr="1561.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="201" outside="0" occluded="0" keyframe="1" xtl="940.40" ytl="613.80" xbr="1582.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="202" outside="0" occluded="0" keyframe="1" xtl="947.70" ytl="614.90" xbr="1611.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="203" outside="0" occluded="0" keyframe="1" xtl="955.80" ytl="617.00" xbr="1636.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="204" outside="0" occluded="0" keyframe="1" xtl="965.20" ytl="619.60" xbr="1654.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="205" outside="0" occluded="0" keyframe="1" xtl="973.80" ytl="618.90" xbr="1678.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="206" outside="0" occluded="0" keyframe="1" xtl="980.40" ytl="617.50" xbr="1702.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="207" outside="0" occluded="0" keyframe="1" xtl="984.70" ytl="617.50" xbr="1721.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="208" outside="0" occluded="0" keyframe="1" xtl="996.10" ytl="617.50" xbr="1735.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="209" outside="0" occluded="0" keyframe="1" xtl="999.20" ytl="614.50" xbr="1748.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="210" outside="1" occluded="0" keyframe="1" xtl="985.10" ytl="622.20" xbr="1745.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="2" label="trouser">
+    <box frame="210" outside="0" occluded="0" keyframe="1" xtl="623.43" ytl="0.00" xbr="1383.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="211" outside="0" occluded="0" keyframe="1" xtl="625.40" ytl="0.00" xbr="1372.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="212" outside="0" occluded="0" keyframe="1" xtl="614.70" ytl="0.00" xbr="1360.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="213" outside="0" occluded="0" keyframe="1" xtl="605.20" ytl="0.00" xbr="1355.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="214" outside="0" occluded="0" keyframe="1" xtl="597.80" ytl="0.00" xbr="1364.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="215" outside="0" occluded="0" keyframe="1" xtl="587.90" ytl="0.00" xbr="1378.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="216" outside="0" occluded="0" keyframe="1" xtl="579.30" ytl="55.50" xbr="1383.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="217" outside="0" occluded="0" keyframe="1" xtl="568.80" ytl="104.90" xbr="1431.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="218" outside="0" occluded="0" keyframe="1" xtl="560.10" ytl="175.10" xbr="1480.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="219" outside="0" occluded="0" keyframe="1" xtl="550.20" ytl="238.40" xbr="1520.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="220" outside="0" occluded="0" keyframe="1" xtl="547.30" ytl="291.00" xbr="1540.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="221" outside="0" occluded="0" keyframe="1" xtl="543.00" ytl="327.70" xbr="1542.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="222" outside="0" occluded="0" keyframe="1" xtl="546.10" ytl="354.10" xbr="1542.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="223" outside="0" occluded="0" keyframe="1" xtl="556.20" ytl="365.50" xbr="1551.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="224" outside="0" occluded="0" keyframe="1" xtl="568.20" ytl="371.60" xbr="1573.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="225" outside="1" occluded="0" keyframe="1" xtl="564.30" ytl="430.20" xbr="1573.40" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="3" label="t-shirt">
+    <box frame="217" outside="0" occluded="0" keyframe="1" xtl="626.60" ytl="0.00" xbr="1210.27" ybr="225.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="218" outside="0" occluded="0" keyframe="1" xtl="615.40" ytl="0.00" xbr="1203.90" ybr="298.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="219" outside="0" occluded="0" keyframe="1" xtl="555.50" ytl="0.00" xbr="1195.80" ybr="366.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="220" outside="0" occluded="0" keyframe="1" xtl="548.60" ytl="0.00" xbr="1285.50" ybr="433.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="221" outside="0" occluded="0" keyframe="1" xtl="555.50" ytl="0.00" xbr="1277.60" ybr="481.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="222" outside="0" occluded="0" keyframe="1" xtl="560.30" ytl="0.00" xbr="1275.00" ybr="509.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="223" outside="0" occluded="0" keyframe="1" xtl="566.30" ytl="0.00" xbr="1281.30" ybr="531.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="224" outside="0" occluded="0" keyframe="1" xtl="565.50" ytl="0.00" xbr="1287.90" ybr="559.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="225" outside="1" occluded="0" keyframe="1" xtl="564.20" ytl="2.64" xbr="1287.90" ybr="555.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="4" label="t-shirt">
+    <box frame="225" outside="0" occluded="0" keyframe="1" xtl="576.40" ytl="387.20" xbr="1127.38" ybr="1017.50">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="226" outside="0" occluded="0" keyframe="1" xtl="583.50" ytl="388.70" xbr="1128.10" ybr="1023.20">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="227" outside="0" occluded="0" keyframe="1" xtl="589.30" ytl="392.30" xbr="1129.50" ybr="1027.10">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="228" outside="0" occluded="0" keyframe="1" xtl="595.00" ytl="394.70" xbr="1131.90" ybr="1031.60">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="229" outside="0" occluded="0" keyframe="1" xtl="602.40" ytl="394.70" xbr="1132.60" ybr="1038.10">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="230" outside="0" occluded="0" keyframe="1" xtl="608.50" ytl="395.90" xbr="1133.20" ybr="1044.00">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="231" outside="0" occluded="0" keyframe="1" xtl="622.70" ytl="403.30" xbr="1137.10" ybr="1051.30">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="232" outside="0" occluded="0" keyframe="1" xtl="640.30" ytl="407.80" xbr="1143.10" ybr="1059.60">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="233" outside="0" occluded="0" keyframe="1" xtl="661.20" ytl="406.00" xbr="1153.10" ybr="1065.40">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="234" outside="0" occluded="0" keyframe="1" xtl="680.70" ytl="403.30" xbr="1161.40" ybr="1065.40">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="235" outside="0" occluded="0" keyframe="1" xtl="701.20" ytl="390.30" xbr="1170.70" ybr="1058.60">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="236" outside="0" occluded="0" keyframe="1" xtl="718.80" ytl="377.50" xbr="1179.90" ybr="1050.50">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="237" outside="0" occluded="0" keyframe="1" xtl="733.00" ytl="357.80" xbr="1185.20" ybr="1043.00">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="238" outside="0" occluded="0" keyframe="1" xtl="747.90" ytl="355.20" xbr="1197.00" ybr="1034.80">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="239" outside="0" occluded="0" keyframe="1" xtl="761.70" ytl="339.40" xbr="1199.60" ybr="1026.50">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="240" outside="0" occluded="0" keyframe="1" xtl="765.30" ytl="338.10" xbr="1206.20" ybr="1023.90">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="241" outside="0" occluded="0" keyframe="1" xtl="768.30" ytl="331.50" xbr="1207.50" ybr="1021.30">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="242" outside="0" occluded="0" keyframe="1" xtl="772.70" ytl="323.60" xbr="1207.50" ybr="1017.90">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="243" outside="0" occluded="0" keyframe="1" xtl="774.80" ytl="319.70" xbr="1207.50" ybr="1015.70">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="244" outside="0" occluded="0" keyframe="1" xtl="776.90" ytl="319.70" xbr="1207.50" ybr="1012.60">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="245" outside="0" occluded="0" keyframe="1" xtl="778.90" ytl="314.70" xbr="1207.50" ybr="1010.10">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="246" outside="0" occluded="0" keyframe="1" xtl="780.00" ytl="311.80" xbr="1207.50" ybr="1005.90">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="247" outside="0" occluded="0" keyframe="1" xtl="780.10" ytl="309.60" xbr="1204.80" ybr="1002.50">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+    <box frame="248" outside="1" occluded="0" keyframe="1" xtl="778.60" ytl="311.80" xbr="1207.50" ybr="1002.50">
+      <attribute name="complexity">0.50</attribute>
+    </box>
+  </track>
+  <track id="5" label="trouser">
+    <box frame="225" outside="0" occluded="0" keyframe="1" xtl="632.80" ytl="616.40" xbr="1408.96" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="226" outside="0" occluded="0" keyframe="1" xtl="641.40" ytl="618.43" xbr="1416.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="227" outside="0" occluded="0" keyframe="1" xtl="651.20" ytl="618.43" xbr="1423.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="228" outside="0" occluded="0" keyframe="1" xtl="660.10" ytl="618.43" xbr="1431.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="229" outside="0" occluded="0" keyframe="1" xtl="669.00" ytl="619.70" xbr="1439.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="230" outside="0" occluded="0" keyframe="1" xtl="678.90" ytl="619.70" xbr="1448.40" ybr="1079.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="231" outside="0" occluded="0" keyframe="1" xtl="697.50" ytl="619.70" xbr="1462.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="232" outside="0" occluded="0" keyframe="1" xtl="727.90" ytl="619.70" xbr="1490.50" ybr="1079.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="233" outside="0" occluded="0" keyframe="1" xtl="761.10" ytl="613.10" xbr="1519.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="234" outside="0" occluded="0" keyframe="1" xtl="794.00" ytl="593.40" xbr="1546.30" ybr="1079.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="235" outside="0" occluded="0" keyframe="1" xtl="839.10" ytl="559.20" xbr="1582.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="236" outside="0" occluded="0" keyframe="1" xtl="869.90" ytl="533.80" xbr="1606.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="237" outside="0" occluded="0" keyframe="1" xtl="900.10" ytl="501.30" xbr="1632.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="238" outside="0" occluded="0" keyframe="1" xtl="931.50" ytl="479.50" xbr="1656.30" ybr="1079.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="239" outside="0" occluded="0" keyframe="1" xtl="960.00" ytl="455.20" xbr="1680.00" ybr="1079.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="240" outside="0" occluded="0" keyframe="1" xtl="968.90" ytl="442.00" xbr="1686.40" ybr="1079.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="241" outside="0" occluded="0" keyframe="1" xtl="977.30" ytl="436.70" xbr="1694.10" ybr="1079.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="242" outside="0" occluded="0" keyframe="1" xtl="981.50" ytl="432.80" xbr="1699.00" ybr="1079.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="243" outside="0" occluded="0" keyframe="1" xtl="989.50" ytl="422.30" xbr="1705.60" ybr="1079.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="244" outside="0" occluded="0" keyframe="1" xtl="994.70" ytl="417.00" xbr="1709.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="245" outside="0" occluded="0" keyframe="1" xtl="1002.20" ytl="410.40" xbr="1712.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="246" outside="0" occluded="0" keyframe="1" xtl="1004.90" ytl="406.40" xbr="1715.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="247" outside="0" occluded="0" keyframe="1" xtl="1005.00" ytl="395.50" xbr="1716.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="248" outside="1" occluded="0" keyframe="1" xtl="984.20" ytl="391.90" xbr="1716.80" ybr="1079.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="6" label="dress">
+    <box frame="254" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="577.50" ybr="210.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="255" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="615.50" ybr="233.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="256" outside="0" occluded="0" keyframe="1" xtl="0.40" ytl="0.00" xbr="648.10" ybr="263.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="257" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="681.20" ybr="293.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="258" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="712.90" ybr="549.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="259" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="727.30" ybr="593.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="260" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="756.20" ybr="628.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="261" outside="0" occluded="0" keyframe="1" xtl="0.30" ytl="0.00" xbr="772.00" ybr="666.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="262" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="795.70" ybr="700.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="263" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="808.90" ybr="739.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="264" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="826.00" ybr="781.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="265" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="843.10" ybr="820.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="266" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="854.90" ybr="856.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="267" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="856.20" ybr="884.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="268" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="856.20" ybr="909.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="269" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="856.20" ybr="934.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="270" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="857.50" ybr="956.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="271" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="857.50" ybr="965.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="272" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="857.50" ybr="995.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="273" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="849.60" ybr="995.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="274" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="15.20" xbr="839.10" ybr="1023.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="275" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="30.20" xbr="830.70" ybr="1051.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="276" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="47.50" xbr="822.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="277" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="66.20" xbr="809.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="278" outside="0" occluded="0" keyframe="1" xtl="1.06" ytl="80.10" xbr="797.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="279" outside="0" occluded="0" keyframe="1" xtl="1.06" ytl="93.30" xbr="789.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="280" outside="0" occluded="0" keyframe="1" xtl="1.06" ytl="101.20" xbr="783.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="281" outside="0" occluded="0" keyframe="1" xtl="1.06" ytl="107.80" xbr="776.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="282" outside="0" occluded="0" keyframe="1" xtl="1.06" ytl="114.40" xbr="771.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="283" outside="0" occluded="0" keyframe="1" xtl="1.06" ytl="118.35" xbr="769.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="284" outside="0" occluded="0" keyframe="1" xtl="1.06" ytl="122.30" xbr="769.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="285" outside="0" occluded="0" keyframe="1" xtl="1.06" ytl="118.30" xbr="769.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="286" outside="0" occluded="0" keyframe="1" xtl="1.06" ytl="118.30" xbr="767.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="287" outside="0" occluded="0" keyframe="1" xtl="1.06" ytl="119.60" xbr="765.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="288" outside="1" occluded="0" keyframe="1" xtl="1.06" ytl="119.60" xbr="766.80" ybr="1077.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="7" label="dress">
+    <box frame="288" outside="0" occluded="0" keyframe="1" xtl="157.30" ytl="49.40" xbr="1307.70" ybr="758.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="289" outside="0" occluded="0" keyframe="1" xtl="161.60" ytl="92.20" xbr="1316.00" ybr="818.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="290" outside="0" occluded="0" keyframe="1" xtl="171.90" ytl="130.50" xbr="1333.50" ybr="873.69">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="291" outside="0" occluded="0" keyframe="1" xtl="191.85" ytl="165.40" xbr="1362.40" ybr="927.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="292" outside="0" occluded="0" keyframe="1" xtl="216.85" ytl="203.70" xbr="1399.10" ybr="973.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="293" outside="0" occluded="0" keyframe="1" xtl="251.06" ytl="229.10" xbr="1445.60" ybr="1023.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="294" outside="0" occluded="0" keyframe="1" xtl="287.80" ytl="268.20" xbr="1496.90" ybr="1073.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="295" outside="0" occluded="0" keyframe="1" xtl="324.75" ytl="309.30" xbr="1552.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="296" outside="0" occluded="0" keyframe="1" xtl="361.59" ytl="355.30" xbr="1596.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="297" outside="0" occluded="0" keyframe="1" xtl="414.10" ytl="385.50" xbr="1647.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="298" outside="0" occluded="0" keyframe="1" xtl="459.00" ytl="410.50" xbr="1681.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="299" outside="0" occluded="0" keyframe="1" xtl="580.90" ytl="439.50" xbr="1718.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="300" outside="0" occluded="0" keyframe="1" xtl="650.50" ytl="455.00" xbr="1740.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="301" outside="0" occluded="0" keyframe="1" xtl="706.50" ytl="485.50" xbr="1744.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="302" outside="0" occluded="0" keyframe="1" xtl="742.50" ytl="506.60" xbr="1733.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="303" outside="0" occluded="0" keyframe="1" xtl="750.00" ytl="522.50" xbr="1707.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="304" outside="0" occluded="0" keyframe="1" xtl="740.70" ytl="527.60" xbr="1670.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="305" outside="0" occluded="0" keyframe="1" xtl="715.80" ytl="556.70" xbr="1622.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="306" outside="0" occluded="0" keyframe="1" xtl="677.50" ytl="583.00" xbr="1576.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="307" outside="0" occluded="0" keyframe="1" xtl="640.74" ytl="586.77" xbr="1533.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="308" outside="0" occluded="0" keyframe="1" xtl="622.70" ytl="593.30" xbr="1502.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="309" outside="0" occluded="0" keyframe="1" xtl="613.10" ytl="602.50" xbr="1478.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="310" outside="0" occluded="0" keyframe="1" xtl="611.80" ytl="614.30" xbr="1459.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="311" outside="0" occluded="0" keyframe="1" xtl="638.70" ytl="631.40" xbr="1445.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="312" outside="0" occluded="0" keyframe="1" xtl="650.70" ytl="657.70" xbr="1437.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="313" outside="0" occluded="0" keyframe="1" xtl="665.20" ytl="673.50" xbr="1431.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="314" outside="0" occluded="0" keyframe="1" xtl="669.20" ytl="682.70" xbr="1427.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="315" outside="0" occluded="0" keyframe="1" xtl="652.00" ytl="680.90" xbr="1417.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="316" outside="0" occluded="0" keyframe="1" xtl="624.20" ytl="669.30" xbr="1408.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="317" outside="0" occluded="0" keyframe="1" xtl="479.90" ytl="636.60" xbr="1400.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="318" outside="0" occluded="0" keyframe="1" xtl="467.20" ytl="591.40" xbr="1394.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="319" outside="0" occluded="0" keyframe="1" xtl="481.50" ytl="531.90" xbr="1399.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="320" outside="1" occluded="0" keyframe="1" xtl="481.50" ytl="534.00" xbr="1391.60" ybr="1078.68">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="8" label="dress">
+    <box frame="320" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1190.54" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="321" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1194.10" ybr="1079.48">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="322" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1227.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="323" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1322.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="324" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1448.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="325" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1565.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="326" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1674.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="327" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1778.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="328" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1868.05" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="329" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1918.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="330" outside="0" occluded="0" keyframe="1" xtl="1.14" ytl="2.37" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="331" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="332" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="333" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="334" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1803.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="335" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="0.00" xbr="1640.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="336" outside="1" occluded="0" keyframe="1" xtl="1.32" ytl="1.32" xbr="1640.30" ybr="1077.64">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="9" label="shirt">
+    <box frame="336" outside="0" occluded="0" keyframe="1" xtl="662.10" ytl="238.20" xbr="1381.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="337" outside="0" occluded="0" keyframe="1" xtl="647.60" ytl="260.50" xbr="1433.90" ybr="1079.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="338" outside="0" occluded="0" keyframe="1" xtl="598.40" ytl="296.00" xbr="1499.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="339" outside="0" occluded="0" keyframe="1" xtl="553.70" ytl="334.20" xbr="1564.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="340" outside="0" occluded="0" keyframe="1" xtl="507.10" ytl="387.30" xbr="1633.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="341" outside="0" occluded="0" keyframe="1" xtl="472.30" ytl="440.80" xbr="1693.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="342" outside="0" occluded="0" keyframe="1" xtl="444.70" ytl="481.60" xbr="1743.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="343" outside="0" occluded="0" keyframe="1" xtl="418.40" ytl="507.90" xbr="1768.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="344" outside="0" occluded="0" keyframe="1" xtl="389.30" ytl="533.30" xbr="1767.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="345" outside="0" occluded="0" keyframe="1" xtl="389.30" ytl="554.40" xbr="1740.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="346" outside="0" occluded="0" keyframe="1" xtl="403.80" ytl="549.90" xbr="1712.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="347" outside="0" occluded="0" keyframe="1" xtl="438.00" ytl="553.80" xbr="1662.80" ybr="1079.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="348" outside="0" occluded="0" keyframe="1" xtl="484.10" ytl="560.50" xbr="1594.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="349" outside="0" occluded="0" keyframe="1" xtl="534.90" ytl="586.80" xbr="1509.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="350" outside="0" occluded="0" keyframe="1" xtl="570.20" ytl="628.86" xbr="1452.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="351" outside="0" occluded="0" keyframe="1" xtl="593.30" ytl="638.10" xbr="1418.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="352" outside="0" occluded="0" keyframe="1" xtl="617.10" ytl="648.60" xbr="1380.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="353" outside="0" occluded="0" keyframe="1" xtl="644.60" ytl="664.40" xbr="1337.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="354" outside="0" occluded="0" keyframe="1" xtl="670.00" ytl="681.50" xbr="1310.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="355" outside="0" occluded="0" keyframe="1" xtl="705.10" ytl="693.30" xbr="1291.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="356" outside="0" occluded="0" keyframe="1" xtl="718.30" ytl="699.90" xbr="1283.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="357" outside="0" occluded="0" keyframe="1" xtl="730.10" ytl="713.10" xbr="1279.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="358" outside="0" occluded="0" keyframe="1" xtl="741.50" ytl="721.80" xbr="1291.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="359" outside="0" occluded="0" keyframe="1" xtl="755.10" ytl="728.80" xbr="1315.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="360" outside="0" occluded="0" keyframe="1" xtl="766.20" ytl="735.40" xbr="1344.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="361" outside="0" occluded="0" keyframe="1" xtl="779.00" ytl="742.90" xbr="1366.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="362" outside="0" occluded="0" keyframe="1" xtl="779.70" ytl="745.90" xbr="1394.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="363" outside="0" occluded="0" keyframe="1" xtl="767.70" ytl="745.90" xbr="1413.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="364" outside="0" occluded="0" keyframe="1" xtl="757.80" ytl="742.00" xbr="1438.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="365" outside="0" occluded="0" keyframe="1" xtl="745.10" ytl="734.30" xbr="1470.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="366" outside="0" occluded="0" keyframe="1" xtl="733.40" ytl="730.20" xbr="1510.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="367" outside="0" occluded="0" keyframe="1" xtl="720.60" ytl="719.70" xbr="1549.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="368" outside="0" occluded="0" keyframe="1" xtl="714.30" ytl="710.50" xbr="1584.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="369" outside="1" occluded="0" keyframe="1" xtl="717.00" ytl="710.50" xbr="1587.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="10" label="dress">
+    <box frame="369" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="263.70" xbr="733.69" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="370" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="299.00" xbr="791.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="371" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="337.20" xbr="848.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="372" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="370.10" xbr="911.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="373" outside="0" occluded="0" keyframe="1" xtl="0.00" ytl="397.70" xbr="974.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="374" outside="0" occluded="0" keyframe="1" xtl="176.30" ytl="431.90" xbr="1029.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="375" outside="0" occluded="0" keyframe="1" xtl="324.80" ytl="449.00" xbr="1074.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="376" outside="0" occluded="0" keyframe="1" xtl="448.60" ytl="451.60" xbr="1123.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="377" outside="0" occluded="0" keyframe="1" xtl="542.00" ytl="444.90" xbr="1173.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="378" outside="0" occluded="0" keyframe="1" xtl="631.50" ytl="445.10" xbr="1235.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="379" outside="0" occluded="0" keyframe="1" xtl="684.70" ytl="445.08" xbr="1301.30" ybr="1078.68">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="380" outside="0" occluded="0" keyframe="1" xtl="728.90" ytl="433.20" xbr="1361.60" ybr="1078.68">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="381" outside="0" occluded="0" keyframe="1" xtl="771.10" ytl="418.80" xbr="1416.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="382" outside="0" occluded="0" keyframe="1" xtl="809.20" ytl="408.30" xbr="1473.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="383" outside="0" occluded="0" keyframe="1" xtl="843.40" ytl="393.80" xbr="1514.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="384" outside="0" occluded="0" keyframe="1" xtl="876.30" ytl="372.80" xbr="1549.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="385" outside="0" occluded="0" keyframe="1" xtl="911.83" ytl="351.70" xbr="1611.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="386" outside="0" occluded="0" keyframe="1" xtl="943.40" ytl="331.90" xbr="1670.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="387" outside="0" occluded="0" keyframe="1" xtl="976.30" ytl="312.20" xbr="1724.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="388" outside="0" occluded="0" keyframe="1" xtl="1003.90" ytl="290.90" xbr="1773.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="389" outside="0" occluded="0" keyframe="1" xtl="1031.50" ytl="268.70" xbr="1813.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="390" outside="0" occluded="0" keyframe="1" xtl="1052.50" ytl="246.80" xbr="1854.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="391" outside="0" occluded="0" keyframe="1" xtl="1069.60" ytl="225.30" xbr="1898.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="392" outside="0" occluded="0" keyframe="1" xtl="1086.70" ytl="201.60" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="393" outside="1" occluded="0" keyframe="1" xtl="1086.70" ytl="201.60" xbr="1916.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="11" label="dress">
+    <box frame="393" outside="0" occluded="0" keyframe="1" xtl="182.50" ytl="622.90" xbr="518.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="394" outside="0" occluded="0" keyframe="1" xtl="182.00" ytl="622.40" xbr="525.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="395" outside="0" occluded="0" keyframe="1" xtl="182.20" ytl="623.10" xbr="529.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="396" outside="0" occluded="0" keyframe="1" xtl="182.60" ytl="623.50" xbr="527.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="397" outside="0" occluded="0" keyframe="1" xtl="183.70" ytl="624.60" xbr="519.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="398" outside="0" occluded="0" keyframe="1" xtl="186.90" ytl="623.90" xbr="510.90" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="399" outside="0" occluded="0" keyframe="1" xtl="187.10" ytl="625.00" xbr="497.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="400" outside="0" occluded="0" keyframe="1" xtl="188.10" ytl="624.40" xbr="493.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="401" outside="0" occluded="0" keyframe="1" xtl="189.20" ytl="623.90" xbr="491.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="402" outside="0" occluded="0" keyframe="1" xtl="189.30" ytl="622.90" xbr="486.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="403" outside="0" occluded="0" keyframe="1" xtl="189.80" ytl="622.20" xbr="483.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="404" outside="0" occluded="0" keyframe="1" xtl="190.10" ytl="621.76" xbr="483.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="405" outside="0" occluded="0" keyframe="1" xtl="190.50" ytl="621.32" xbr="485.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="406" outside="0" occluded="0" keyframe="1" xtl="189.50" ytl="621.32" xbr="487.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="407" outside="0" occluded="0" keyframe="1" xtl="190.20" ytl="621.32" xbr="492.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="408" outside="0" occluded="0" keyframe="1" xtl="187.30" ytl="620.90" xbr="494.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="409" outside="0" occluded="0" keyframe="1" xtl="185.10" ytl="621.11" xbr="496.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="410" outside="0" occluded="0" keyframe="1" xtl="182.50" ytl="620.10" xbr="497.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="411" outside="0" occluded="0" keyframe="1" xtl="181.20" ytl="620.71" xbr="497.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="412" outside="0" occluded="0" keyframe="1" xtl="179.50" ytl="621.32" xbr="497.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="413" outside="0" occluded="0" keyframe="1" xtl="178.00" ytl="621.32" xbr="496.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="414" outside="0" occluded="0" keyframe="1" xtl="177.87" ytl="622.00" xbr="496.06" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="415" outside="0" occluded="0" keyframe="1" xtl="176.70" ytl="623.10" xbr="496.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="416" outside="0" occluded="0" keyframe="1" xtl="177.61" ytl="622.75" xbr="497.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="417" outside="0" occluded="0" keyframe="1" xtl="179.00" ytl="623.40" xbr="497.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="418" outside="0" occluded="0" keyframe="1" xtl="180.50" ytl="622.60" xbr="498.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="419" outside="0" occluded="0" keyframe="1" xtl="182.00" ytl="622.20" xbr="493.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="420" outside="0" occluded="0" keyframe="1" xtl="182.60" ytl="622.90" xbr="487.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="421" outside="0" occluded="0" keyframe="1" xtl="183.60" ytl="622.90" xbr="486.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="422" outside="0" occluded="0" keyframe="1" xtl="185.40" ytl="622.40" xbr="486.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="423" outside="0" occluded="0" keyframe="1" xtl="184.40" ytl="621.80" xbr="486.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="424" outside="0" occluded="0" keyframe="0" xtl="186.40" ytl="621.56" xbr="487.05" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="425" outside="0" occluded="0" keyframe="1" xtl="188.40" ytl="621.32" xbr="487.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="426" outside="1" occluded="0" keyframe="1" xtl="182.40" ytl="621.32" xbr="487.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+  </track>
+  <track id="12" label="dress">
+    <box frame="393" outside="0" occluded="0" keyframe="1" xtl="996.85" ytl="177.00" xbr="1436.10" ybr="719.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="394" outside="0" occluded="0" keyframe="1" xtl="990.50" ytl="176.60" xbr="1433.80" ybr="722.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="395" outside="0" occluded="0" keyframe="1" xtl="983.70" ytl="177.20" xbr="1424.90" ybr="730.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="396" outside="0" occluded="0" keyframe="1" xtl="975.10" ytl="176.30" xbr="1412.40" ybr="738.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="397" outside="0" occluded="0" keyframe="1" xtl="965.90" ytl="176.30" xbr="1404.80" ybr="748.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="398" outside="0" occluded="0" keyframe="1" xtl="950.60" ytl="176.00" xbr="1405.30" ybr="756.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="399" outside="0" occluded="0" keyframe="1" xtl="939.30" ytl="176.70" xbr="1406.70" ybr="769.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="400" outside="0" occluded="0" keyframe="1" xtl="923.90" ytl="176.60" xbr="1399.50" ybr="785.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="401" outside="0" occluded="0" keyframe="1" xtl="903.40" ytl="176.10" xbr="1405.40" ybr="808.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="402" outside="0" occluded="0" keyframe="1" xtl="875.77" ytl="176.58" xbr="1412.70" ybr="834.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="403" outside="0" occluded="0" keyframe="1" xtl="854.70" ytl="176.58" xbr="1418.50" ybr="876.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="404" outside="0" occluded="0" keyframe="1" xtl="819.20" ytl="176.58" xbr="1418.80" ybr="903.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="405" outside="0" occluded="0" keyframe="1" xtl="799.00" ytl="176.58" xbr="1416.60" ybr="903.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="406" outside="0" occluded="0" keyframe="1" xtl="787.40" ytl="176.58" xbr="1417.50" ybr="903.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="407" outside="0" occluded="0" keyframe="1" xtl="771.80" ytl="176.58" xbr="1423.20" ybr="903.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="408" outside="0" occluded="0" keyframe="1" xtl="762.60" ytl="176.58" xbr="1428.60" ybr="903.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="409" outside="0" occluded="0" keyframe="1" xtl="765.80" ytl="218.70" xbr="1431.00" ybr="903.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="410" outside="0" occluded="0" keyframe="1" xtl="781.60" ytl="254.20" xbr="1440.20" ybr="903.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="411" outside="0" occluded="0" keyframe="1" xtl="793.40" ytl="286.30" xbr="1450.70" ybr="904.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="412" outside="0" occluded="0" keyframe="1" xtl="798.70" ytl="318.70" xbr="1457.30" ybr="903.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="413" outside="0" occluded="0" keyframe="1" xtl="801.80" ytl="339.80" xbr="1457.10" ybr="904.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="414" outside="0" occluded="0" keyframe="1" xtl="807.80" ytl="356.90" xbr="1459.90" ybr="902.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="415" outside="0" occluded="0" keyframe="1" xtl="811.80" ytl="372.70" xbr="1441.50" ybr="902.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="416" outside="0" occluded="0" keyframe="1" xtl="814.40" ytl="383.90" xbr="1423.10" ybr="903.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="417" outside="0" occluded="0" keyframe="1" xtl="813.70" ytl="395.00" xbr="1406.20" ybr="903.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="418" outside="0" occluded="0" keyframe="1" xtl="812.50" ytl="395.00" xbr="1400.80" ybr="903.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="419" outside="0" occluded="0" keyframe="1" xtl="812.50" ytl="406.80" xbr="1390.30" ybr="902.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="420" outside="0" occluded="0" keyframe="1" xtl="808.60" ytl="416.00" xbr="1390.30" ybr="902.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="421" outside="0" occluded="0" keyframe="1" xtl="804.70" ytl="421.30" xbr="1390.30" ybr="903.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="422" outside="0" occluded="0" keyframe="1" xtl="803.40" ytl="421.73" xbr="1390.30" ybr="903.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="423" outside="0" occluded="0" keyframe="1" xtl="802.10" ytl="422.17" xbr="1390.30" ybr="902.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="424" outside="0" occluded="0" keyframe="1" xtl="800.80" ytl="422.60" xbr="1390.30" ybr="903.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="425" outside="0" occluded="0" keyframe="1" xtl="801.40" ytl="422.60" xbr="1390.30" ybr="903.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="426" outside="1" occluded="0" keyframe="1" xtl="800.80" ytl="422.60" xbr="1390.30" ybr="900.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="13" label="dress">
+    <box frame="426" outside="0" occluded="0" keyframe="1" xtl="526.20" ytl="650.27" xbr="1260.01" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="427" outside="0" occluded="0" keyframe="1" xtl="563.96" ytl="652.90" xbr="1291.59" ybr="1078.69">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="428" outside="0" occluded="0" keyframe="1" xtl="603.43" ytl="656.85" xbr="1327.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="429" outside="0" occluded="0" keyframe="1" xtl="648.20" ytl="642.40" xbr="1363.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="430" outside="0" occluded="0" keyframe="1" xtl="682.40" ytl="642.40" xbr="1410.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="431" outside="0" occluded="0" keyframe="1" xtl="703.45" ytl="667.40" xbr="1444.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="432" outside="0" occluded="0" keyframe="1" xtl="748.20" ytl="700.30" xbr="1448.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="433" outside="0" occluded="0" keyframe="1" xtl="773.20" ytl="731.90" xbr="1475.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="434" outside="0" occluded="0" keyframe="1" xtl="781.10" ytl="753.00" xbr="1494.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="435" outside="0" occluded="0" keyframe="1" xtl="800.80" ytl="774.10" xbr="1500.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="436" outside="0" occluded="0" keyframe="1" xtl="800.80" ytl="775.40" xbr="1502.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="437" outside="0" occluded="0" keyframe="1" xtl="795.50" ytl="761.00" xbr="1502.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="438" outside="0" occluded="0" keyframe="1" xtl="787.60" ytl="729.40" xbr="1502.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="439" outside="0" occluded="0" keyframe="1" xtl="770.50" ytl="711.00" xbr="1469.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="440" outside="0" occluded="0" keyframe="1" xtl="754.70" ytl="682.10" xbr="1441.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="441" outside="0" occluded="0" keyframe="1" xtl="742.90" ytl="671.60" xbr="1408.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="442" outside="0" occluded="0" keyframe="1" xtl="732.40" ytl="661.10" xbr="1383.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="443" outside="0" occluded="0" keyframe="1" xtl="721.90" ytl="650.60" xbr="1359.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="444" outside="0" occluded="0" keyframe="1" xtl="714.00" ytl="628.20" xbr="1350.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="445" outside="0" occluded="0" keyframe="1" xtl="698.20" ytl="608.50" xbr="1340.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="446" outside="0" occluded="0" keyframe="1" xtl="687.70" ytl="591.40" xbr="1345.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="447" outside="0" occluded="0" keyframe="1" xtl="673.20" ytl="576.90" xbr="1335.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="448" outside="0" occluded="0" keyframe="1" xtl="665.30" ytl="561.10" xbr="1335.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="449" outside="0" occluded="0" keyframe="1" xtl="658.70" ytl="561.10" xbr="1324.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="450" outside="0" occluded="0" keyframe="1" xtl="645.50" ytl="561.10" xbr="1320.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="451" outside="0" occluded="0" keyframe="1" xtl="624.40" ytl="549.30" xbr="1320.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="452" outside="1" occluded="0" keyframe="1" xtl="624.40" ytl="549.30" xbr="1320.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="14" label="dress">
+    <box frame="470" outside="0" occluded="0" keyframe="1" xtl="636.59" ytl="0.00" xbr="1918.17" ybr="1076.33">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="471" outside="0" occluded="0" keyframe="1" xtl="578.70" ytl="0.00" xbr="1918.17" ybr="1076.33">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="472" outside="0" occluded="0" keyframe="1" xtl="514.20" ytl="0.00" xbr="1918.17" ybr="1076.33">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="473" outside="0" occluded="0" keyframe="1" xtl="448.40" ytl="0.00" xbr="1918.17" ybr="1076.33">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="474" outside="0" occluded="0" keyframe="1" xtl="395.80" ytl="0.00" xbr="1918.17" ybr="1076.33">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="475" outside="0" occluded="0" keyframe="1" xtl="334.00" ytl="0.00" xbr="1918.17" ybr="1076.33">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="476" outside="0" occluded="0" keyframe="1" xtl="284.00" ytl="0.00" xbr="1918.17" ybr="1076.33">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="477" outside="0" occluded="0" keyframe="1" xtl="241.90" ytl="0.00" xbr="1918.17" ybr="1076.33">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="478" outside="0" occluded="0" keyframe="1" xtl="203.70" ytl="0.00" xbr="1842.40" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="479" outside="0" occluded="0" keyframe="1" xtl="173.40" ytl="0.00" xbr="1735.80" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="480" outside="0" occluded="0" keyframe="1" xtl="144.50" ytl="0.00" xbr="1656.90" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="481" outside="0" occluded="0" keyframe="1" xtl="130.00" ytl="0.00" xbr="1593.70" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="482" outside="0" occluded="0" keyframe="1" xtl="133.90" ytl="0.00" xbr="1541.10" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="483" outside="0" occluded="0" keyframe="1" xtl="137.80" ytl="0.00" xbr="1485.80" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="484" outside="0" occluded="0" keyframe="1" xtl="151.00" ytl="0.00" xbr="1427.90" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="485" outside="0" occluded="0" keyframe="1" xtl="160.20" ytl="0.00" xbr="1384.50" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="486" outside="0" occluded="0" keyframe="1" xtl="173.40" ytl="0.00" xbr="1335.80" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="487" outside="0" occluded="0" keyframe="1" xtl="161.60" ytl="0.00" xbr="1295.00" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="488" outside="0" occluded="0" keyframe="1" xtl="120.80" ytl="0.00" xbr="1246.30" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="489" outside="0" occluded="0" keyframe="1" xtl="86.60" ytl="5.20" xbr="1200.20" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="490" outside="0" occluded="0" keyframe="1" xtl="55.00" ytl="0.00" xbr="1164.70" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="491" outside="1" occluded="0" keyframe="1" xtl="55.00" ytl="10.53" xbr="1164.70" ybr="1077.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="15" label="dress">
+    <box frame="496" outside="0" occluded="0" keyframe="1" xtl="590.53" ytl="569.74" xbr="988.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="497" outside="0" occluded="0" keyframe="1" xtl="518.20" ytl="559.40" xbr="989.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="498" outside="0" occluded="0" keyframe="1" xtl="445.80" ytl="550.00" xbr="989.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="499" outside="0" occluded="0" keyframe="1" xtl="412.90" ytl="543.40" xbr="991.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="500" outside="0" occluded="0" keyframe="1" xtl="383.80" ytl="540.80" xbr="990.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="501" outside="0" occluded="0" keyframe="1" xtl="352.40" ytl="532.90" xbr="990.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="502" outside="0" occluded="0" keyframe="1" xtl="324.80" ytl="532.90" xbr="989.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="503" outside="0" occluded="0" keyframe="1" xtl="296.30" ytl="529.80" xbr="991.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="504" outside="0" occluded="0" keyframe="1" xtl="269.50" ytl="529.00" xbr="990.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="505" outside="0" occluded="0" keyframe="1" xtl="241.90" ytl="529.00" xbr="990.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="506" outside="0" occluded="0" keyframe="1" xtl="222.10" ytl="529.00" xbr="990.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="507" outside="0" occluded="0" keyframe="1" xtl="194.50" ytl="526.40" xbr="989.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="508" outside="0" occluded="0" keyframe="1" xtl="169.50" ytl="524.40" xbr="989.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="509" outside="0" occluded="0" keyframe="1" xtl="144.50" ytl="518.50" xbr="990.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="510" outside="0" occluded="0" keyframe="1" xtl="120.80" ytl="518.50" xbr="990.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="511" outside="0" occluded="0" keyframe="1" xtl="97.10" ytl="521.10" xbr="990.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="512" outside="0" occluded="0" keyframe="1" xtl="73.40" ytl="525.00" xbr="990.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="513" outside="0" occluded="0" keyframe="1" xtl="51.00" ytl="527.50" xbr="982.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="514" outside="0" occluded="0" keyframe="1" xtl="31.30" ytl="532.90" xbr="969.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="515" outside="1" occluded="0" keyframe="1" xtl="31.30" ytl="530.30" xbr="969.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="16" label="dress">
+    <box frame="515" outside="0" occluded="0" keyframe="1" xtl="564.22" ytl="476.70" xbr="963.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="516" outside="0" occluded="0" keyframe="1" xtl="589.20" ytl="478.96" xbr="1011.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="517" outside="0" occluded="0" keyframe="1" xtl="616.90" ytl="482.70" xbr="1061.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="518" outside="0" occluded="0" keyframe="1" xtl="653.70" ytl="502.80" xbr="1102.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="519" outside="0" occluded="0" keyframe="1" xtl="683.80" ytl="517.10" xbr="1128.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="520" outside="0" occluded="0" keyframe="1" xtl="692.70" ytl="521.80" xbr="1124.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="521" outside="0" occluded="0" keyframe="1" xtl="695.30" ytl="527.40" xbr="1119.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="522" outside="0" occluded="0" keyframe="1" xtl="703.50" ytl="527.60" xbr="1120.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="523" outside="0" occluded="0" keyframe="1" xtl="699.20" ytl="532.70" xbr="1124.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="524" outside="0" occluded="0" keyframe="1" xtl="705.60" ytl="538.10" xbr="1129.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="525" outside="0" occluded="0" keyframe="1" xtl="700.00" ytl="538.10" xbr="1140.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="526" outside="0" occluded="0" keyframe="1" xtl="710.50" ytl="516.00" xbr="1161.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="527" outside="0" occluded="0" keyframe="1" xtl="718.20" ytl="494.70" xbr="1178.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="528" outside="0" occluded="0" keyframe="1" xtl="718.20" ytl="477.60" xbr="1181.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="529" outside="0" occluded="0" keyframe="1" xtl="695.80" ytl="463.00" xbr="1168.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="530" outside="0" occluded="0" keyframe="1" xtl="695.80" ytl="461.80" xbr="1168.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="531" outside="0" occluded="0" keyframe="1" xtl="695.80" ytl="454.00" xbr="1165.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="532" outside="0" occluded="0" keyframe="1" xtl="693.20" ytl="446.10" xbr="1161.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="533" outside="0" occluded="0" keyframe="1" xtl="689.30" ytl="438.20" xbr="1158.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="534" outside="0" occluded="0" keyframe="1" xtl="689.30" ytl="434.30" xbr="1154.90" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="535" outside="0" occluded="0" keyframe="1" xtl="688.00" ytl="429.00" xbr="1150.90" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="536" outside="0" occluded="0" keyframe="1" xtl="690.60" ytl="426.80" xbr="1147.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="537" outside="0" occluded="0" keyframe="1" xtl="690.60" ytl="422.60" xbr="1141.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="538" outside="0" occluded="0" keyframe="1" xtl="690.60" ytl="418.50" xbr="1135.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="539" outside="0" occluded="0" keyframe="1" xtl="690.60" ytl="415.80" xbr="1132.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="540" outside="0" occluded="0" keyframe="1" xtl="689.70" ytl="413.20" xbr="1128.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="541" outside="0" occluded="0" keyframe="1" xtl="688.00" ytl="407.00" xbr="1124.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="542" outside="0" occluded="0" keyframe="1" xtl="688.00" ytl="401.70" xbr="1122.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="543" outside="0" occluded="0" keyframe="1" xtl="688.00" ytl="397.80" xbr="1117.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="544" outside="0" occluded="0" keyframe="1" xtl="684.10" ytl="394.70" xbr="1112.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="545" outside="0" occluded="0" keyframe="1" xtl="684.10" ytl="390.30" xbr="1106.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="546" outside="0" occluded="0" keyframe="1" xtl="680.20" ytl="386.20" xbr="1099.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="547" outside="0" occluded="0" keyframe="1" xtl="678.70" ytl="379.80" xbr="1087.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="548" outside="0" occluded="0" keyframe="1" xtl="675.00" ytl="376.40" xbr="1080.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="549" outside="1" occluded="0" keyframe="1" xtl="675.00" ytl="371.00" xbr="1082.50" ybr="1077.64">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+  </track>
+  <track id="17" label="dress">
+    <box frame="549" outside="0" occluded="0" keyframe="1" xtl="268.16" ytl="302.64" xbr="665.53" ybr="802.64">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="550" outside="0" occluded="0" keyframe="1" xtl="256.30" ytl="294.70" xbr="665.53" ybr="800.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="551" outside="0" occluded="0" keyframe="1" xtl="251.10" ytl="285.50" xbr="664.60" ybr="798.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="552" outside="0" occluded="0" keyframe="1" xtl="251.10" ytl="280.20" xbr="661.70" ybr="794.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="553" outside="0" occluded="0" keyframe="1" xtl="253.60" ytl="274.90" xbr="662.90" ybr="794.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="554" outside="0" occluded="0" keyframe="1" xtl="256.50" ytl="269.90" xbr="668.60" ybr="793.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="555" outside="0" occluded="0" keyframe="1" xtl="263.50" ytl="268.30" xbr="672.10" ybr="793.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="556" outside="0" occluded="0" keyframe="1" xtl="272.20" ytl="266.70" xbr="676.30" ybr="792.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="557" outside="0" occluded="0" keyframe="1" xtl="284.10" ytl="267.40" xbr="685.30" ybr="792.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="558" outside="0" occluded="0" keyframe="1" xtl="298.60" ytl="268.10" xbr="691.90" ybr="792.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="559" outside="0" occluded="0" keyframe="1" xtl="311.90" ytl="267.40" xbr="699.80" ybr="793.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="560" outside="0" occluded="0" keyframe="1" xtl="324.80" ytl="265.70" xbr="709.00" ybr="790.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="561" outside="0" occluded="0" keyframe="1" xtl="340.70" ytl="264.20" xbr="720.90" ybr="789.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="562" outside="0" occluded="0" keyframe="1" xtl="353.90" ytl="262.80" xbr="731.40" ybr="787.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="563" outside="0" occluded="0" keyframe="1" xtl="364.40" ytl="260.40" xbr="740.20" ybr="787.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="564" outside="0" occluded="0" keyframe="1" xtl="377.60" ytl="258.00" xbr="748.00" ybr="787.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="565" outside="1" occluded="0" keyframe="1" xtl="377.60" ytl="251.30" xbr="751.10" ybr="789.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="18" label="jacket">
+    <box frame="565" outside="0" occluded="0" keyframe="1" xtl="859.00" ytl="469.74" xbr="1292.50" ybr="899.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="566" outside="0" occluded="0" keyframe="1" xtl="865.50" ytl="480.00" xbr="1255.80" ybr="913.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="567" outside="0" occluded="0" keyframe="1" xtl="875.60" ytl="496.10" xbr="1198.50" ybr="927.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="568" outside="0" occluded="0" keyframe="1" xtl="864.21" ytl="511.89" xbr="1132.10" ybr="937.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="569" outside="0" occluded="0" keyframe="1" xtl="832.60" ytl="519.80" xbr="1070.00" ybr="935.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="570" outside="0" occluded="0" keyframe="1" xtl="802.30" ytl="527.90" xbr="1048.50" ybr="899.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="571" outside="0" occluded="0" keyframe="1" xtl="761.50" ytl="542.10" xbr="1073.50" ybr="943.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="572" outside="0" occluded="0" keyframe="1" xtl="720.20" ytl="551.10" xbr="1070.90" ybr="952.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="573" outside="0" occluded="0" keyframe="1" xtl="697.60" ytl="556.90" xbr="1102.40" ybr="972.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="574" outside="0" occluded="0" keyframe="1" xtl="682.50" ytl="560.60" xbr="1121.70" ybr="989.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="575" outside="0" occluded="0" keyframe="1" xtl="675.40" ytl="564.55" xbr="1134.90" ybr="1012.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="576" outside="0" occluded="0" keyframe="1" xtl="670.20" ytl="563.23" xbr="1145.60" ybr="1044.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="577" outside="0" occluded="0" keyframe="1" xtl="669.90" ytl="566.10" xbr="1160.40" ybr="1072.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="578" outside="0" occluded="0" keyframe="1" xtl="682.50" ytl="567.20" xbr="1178.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="579" outside="0" occluded="0" keyframe="1" xtl="700.90" ytl="567.20" xbr="1204.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="580" outside="0" occluded="0" keyframe="1" xtl="711.40" ytl="567.20" xbr="1227.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="581" outside="1" occluded="0" keyframe="1" xtl="711.40" ytl="567.20" xbr="1227.50" ybr="1077.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="19" label="dress">
+    <box frame="565" outside="0" occluded="0" keyframe="1" xtl="879.20" ytl="469.74" xbr="1518.17" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="566" outside="0" occluded="0" keyframe="1" xtl="880.00" ytl="481.60" xbr="1485.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="567" outside="0" occluded="0" keyframe="1" xtl="887.10" ytl="496.10" xbr="1381.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="568" outside="0" occluded="0" keyframe="1" xtl="865.60" ytl="509.30" xbr="1385.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="569" outside="0" occluded="0" keyframe="1" xtl="849.70" ytl="519.80" xbr="1379.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="570" outside="0" occluded="0" keyframe="1" xtl="843.10" ytl="530.30" xbr="1336.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="571" outside="0" occluded="0" keyframe="1" xtl="843.10" ytl="544.80" xbr="1322.10" ybr="1078.69">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="572" outside="0" occluded="0" keyframe="1" xtl="879.90" ytl="557.10" xbr="1291.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="573" outside="0" occluded="0" keyframe="1" xtl="878.20" ytl="560.70" xbr="1287.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="574" outside="0" occluded="0" keyframe="1" xtl="872.60" ytl="563.20" xbr="1307.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="575" outside="0" occluded="0" keyframe="1" xtl="854.20" ytl="568.40" xbr="1345.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="576" outside="0" occluded="0" keyframe="1" xtl="820.70" ytl="571.10" xbr="1359.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="577" outside="0" occluded="0" keyframe="1" xtl="802.30" ytl="574.80" xbr="1355.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="578" outside="0" occluded="0" keyframe="1" xtl="795.70" ytl="580.30" xbr="1341.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="579" outside="0" occluded="0" keyframe="1" xtl="789.10" ytl="580.30" xbr="1341.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="580" outside="0" occluded="0" keyframe="1" xtl="782.50" ytl="584.20" xbr="1320.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="581" outside="1" occluded="0" keyframe="1" xtl="782.50" ytl="584.20" xbr="1327.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="20" label="jacket">
+    <box frame="581" outside="0" occluded="0" keyframe="1" xtl="606.10" ytl="390.60" xbr="1116.85" ybr="1067.11">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="582" outside="0" occluded="0" keyframe="1" xtl="622.11" ytl="384.22" xbr="1144.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="583" outside="0" occluded="0" keyframe="1" xtl="638.00" ytl="370.60" xbr="1170.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="584" outside="0" occluded="0" keyframe="1" xtl="653.90" ytl="360.30" xbr="1201.90" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="585" outside="0" occluded="0" keyframe="1" xtl="666.90" ytl="347.90" xbr="1231.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="586" outside="0" occluded="0" keyframe="1" xtl="682.50" ytl="339.80" xbr="1259.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="587" outside="0" occluded="0" keyframe="1" xtl="692.90" ytl="331.60" xbr="1279.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="588" outside="0" occluded="0" keyframe="1" xtl="700.30" ytl="334.30" xbr="1294.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="589" outside="0" occluded="0" keyframe="1" xtl="699.00" ytl="341.60" xbr="1292.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="590" outside="0" occluded="0" keyframe="1" xtl="686.20" ytl="352.50" xbr="1273.90" ybr="1079.90">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="591" outside="0" occluded="0" keyframe="1" xtl="674.30" ytl="359.10" xbr="1252.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="592" outside="0" occluded="0" keyframe="1" xtl="666.40" ytl="369.60" xbr="1234.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="593" outside="0" occluded="0" keyframe="1" xtl="661.10" ytl="372.60" xbr="1219.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="594" outside="0" occluded="0" keyframe="1" xtl="655.80" ytl="376.20" xbr="1205.90" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="595" outside="0" occluded="0" keyframe="1" xtl="654.50" ytl="377.40" xbr="1198.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="596" outside="0" occluded="0" keyframe="1" xtl="656.90" ytl="376.10" xbr="1191.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="597" outside="0" occluded="0" keyframe="1" xtl="665.00" ytl="374.80" xbr="1189.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="598" outside="0" occluded="0" keyframe="1" xtl="672.90" ytl="373.40" xbr="1189.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="599" outside="0" occluded="0" keyframe="1" xtl="680.30" ytl="367.30" xbr="1189.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="600" outside="1" occluded="0" keyframe="1" xtl="682.10" ytl="368.20" xbr="1189.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+  </track>
+  <track id="21" label="jacket">
+    <box frame="600" outside="0" occluded="0" keyframe="1" xtl="382.80" ytl="399.80" xbr="1902.91" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="601" outside="0" occluded="0" keyframe="0" xtl="381.85" ytl="392.25" xbr="1901.95" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="602" outside="0" occluded="0" keyframe="1" xtl="380.90" ytl="384.70" xbr="1901.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="603" outside="0" occluded="0" keyframe="0" xtl="381.89" ytl="379.40" xbr="1900.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="604" outside="0" occluded="0" keyframe="1" xtl="382.88" ytl="374.10" xbr="1900.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="605" outside="0" occluded="0" keyframe="0" xtl="383.88" ytl="368.70" xbr="1902.05" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="606" outside="0" occluded="0" keyframe="1" xtl="384.87" ytl="363.30" xbr="1903.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="607" outside="0" occluded="0" keyframe="0" xtl="385.86" ytl="360.35" xbr="1904.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="608" outside="0" occluded="0" keyframe="1" xtl="386.85" ytl="357.40" xbr="1904.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="609" outside="0" occluded="0" keyframe="0" xtl="390.08" ytl="353.55" xbr="1902.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="610" outside="0" occluded="0" keyframe="1" xtl="393.30" ytl="349.70" xbr="1899.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="611" outside="0" occluded="0" keyframe="0" xtl="396.25" ytl="344.65" xbr="1898.95" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="612" outside="0" occluded="0" keyframe="1" xtl="399.20" ytl="339.60" xbr="1898.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="613" outside="0" occluded="0" keyframe="0" xtl="403.45" ytl="337.20" xbr="1897.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="614" outside="0" occluded="0" keyframe="1" xtl="407.70" ytl="334.80" xbr="1897.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="615" outside="0" occluded="0" keyframe="0" xtl="415.80" ytl="333.90" xbr="1899.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="616" outside="0" occluded="0" keyframe="1" xtl="423.90" ytl="333.00" xbr="1900.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="617" outside="0" occluded="0" keyframe="0" xtl="427.85" ytl="333.50" xbr="1900.95" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="618" outside="0" occluded="0" keyframe="1" xtl="431.80" ytl="334.00" xbr="1901.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="619" outside="0" occluded="0" keyframe="0" xtl="430.25" ytl="336.05" xbr="1896.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="620" outside="0" occluded="0" keyframe="1" xtl="428.70" ytl="338.10" xbr="1891.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="621" outside="0" occluded="0" keyframe="0" xtl="427.80" ytl="338.95" xbr="1883.73" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="622" outside="0" occluded="0" keyframe="1" xtl="426.90" ytl="339.80" xbr="1875.97" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="623" outside="0" occluded="0" keyframe="0" xtl="425.80" ytl="340.65" xbr="1867.73" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="624" outside="0" occluded="0" keyframe="1" xtl="424.70" ytl="341.50" xbr="1859.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="625" outside="0" occluded="0" keyframe="0" xtl="421.10" ytl="342.35" xbr="1851.65" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="626" outside="0" occluded="0" keyframe="1" xtl="417.50" ytl="343.20" xbr="1843.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="627" outside="1" occluded="0" keyframe="1" xtl="251.60" ytl="343.20" xbr="1844.90" ybr="1077.51">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="22" label="t-shirt">
+    <box frame="627" outside="0" occluded="0" keyframe="1" xtl="739.00" ytl="666.98" xbr="1471.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="628" outside="0" occluded="0" keyframe="1" xtl="722.20" ytl="679.70" xbr="1472.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="629" outside="0" occluded="0" keyframe="1" xtl="707.50" ytl="689.80" xbr="1461.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="630" outside="0" occluded="0" keyframe="1" xtl="693.30" ytl="702.50" xbr="1439.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="631" outside="0" occluded="0" keyframe="1" xtl="682.30" ytl="710.10" xbr="1415.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="632" outside="0" occluded="0" keyframe="1" xtl="671.80" ytl="712.90" xbr="1391.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="633" outside="0" occluded="0" keyframe="1" xtl="658.20" ytl="718.90" xbr="1362.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="634" outside="0" occluded="0" keyframe="1" xtl="641.00" ytl="734.60" xbr="1325.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="635" outside="0" occluded="0" keyframe="1" xtl="625.20" ytl="749.00" xbr="1282.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="636" outside="0" occluded="0" keyframe="1" xtl="610.80" ytl="760.00" xbr="1250.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="637" outside="0" occluded="0" keyframe="1" xtl="598.30" ytl="764.50" xbr="1220.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="638" outside="0" occluded="0" keyframe="1" xtl="590.70" ytl="772.70" xbr="1191.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="639" outside="0" occluded="0" keyframe="1" xtl="584.50" ytl="780.40" xbr="1167.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="640" outside="0" occluded="0" keyframe="1" xtl="575.10" ytl="781.20" xbr="1144.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="641" outside="0" occluded="0" keyframe="1" xtl="568.50" ytl="781.10" xbr="1130.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="642" outside="0" occluded="0" keyframe="1" xtl="569.20" ytl="770.80" xbr="1120.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="643" outside="0" occluded="0" keyframe="1" xtl="562.30" ytl="757.70" xbr="1114.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="644" outside="0" occluded="0" keyframe="1" xtl="556.20" ytl="745.70" xbr="1109.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="645" outside="0" occluded="0" keyframe="1" xtl="548.30" ytl="734.20" xbr="1101.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="646" outside="0" occluded="0" keyframe="1" xtl="542.40" ytl="725.90" xbr="1098.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="647" outside="0" occluded="0" keyframe="1" xtl="539.50" ytl="720.00" xbr="1103.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="648" outside="0" occluded="0" keyframe="1" xtl="538.20" ytl="716.10" xbr="1105.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="649" outside="0" occluded="0" keyframe="1" xtl="539.40" ytl="715.80" xbr="1106.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="650" outside="0" occluded="0" keyframe="1" xtl="540.80" ytl="717.40" xbr="1114.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="651" outside="0" occluded="0" keyframe="1" xtl="547.70" ytl="716.40" xbr="1121.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="652" outside="0" occluded="0" keyframe="1" xtl="554.80" ytl="716.40" xbr="1127.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="653" outside="0" occluded="0" keyframe="1" xtl="564.90" ytl="718.50" xbr="1139.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="654" outside="0" occluded="0" keyframe="1" xtl="580.60" ytl="720.80" xbr="1154.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="655" outside="0" occluded="0" keyframe="1" xtl="593.00" ytl="728.80" xbr="1166.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="656" outside="0" occluded="0" keyframe="1" xtl="605.40" ytl="733.00" xbr="1176.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="657" outside="0" occluded="0" keyframe="1" xtl="616.70" ytl="735.50" xbr="1185.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="658" outside="0" occluded="0" keyframe="1" xtl="628.30" ytl="736.80" xbr="1196.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="659" outside="1" occluded="0" keyframe="1" xtl="624.00" ytl="738.90" xbr="1194.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="23" label="t-shirt">
+    <box frame="659" outside="0" occluded="0" keyframe="1" xtl="233.70" ytl="0.00" xbr="1611.30" ybr="956.46">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="660" outside="0" occluded="0" keyframe="1" xtl="239.70" ytl="0.00" xbr="1599.00" ybr="936.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="661" outside="0" occluded="0" keyframe="1" xtl="250.80" ytl="0.00" xbr="1587.20" ybr="914.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="662" outside="0" occluded="0" keyframe="1" xtl="259.50" ytl="0.00" xbr="1576.60" ybr="893.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="663" outside="0" occluded="0" keyframe="1" xtl="268.68" ytl="0.00" xbr="1572.70" ybr="879.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="664" outside="0" occluded="0" keyframe="1" xtl="279.40" ytl="0.00" xbr="1562.20" ybr="862.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="665" outside="0" occluded="0" keyframe="1" xtl="289.70" ytl="0.00" xbr="1555.60" ybr="846.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="666" outside="0" occluded="0" keyframe="1" xtl="300.20" ytl="0.00" xbr="1547.70" ybr="832.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="667" outside="0" occluded="0" keyframe="1" xtl="308.90" ytl="0.00" xbr="1539.80" ybr="818.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="668" outside="0" occluded="0" keyframe="1" xtl="318.60" ytl="0.00" xbr="1533.20" ybr="805.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="669" outside="0" occluded="0" keyframe="1" xtl="329.10" ytl="0.00" xbr="1524.00" ybr="790.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="670" outside="0" occluded="0" keyframe="1" xtl="346.20" ytl="0.00" xbr="1522.70" ybr="781.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="671" outside="0" occluded="0" keyframe="1" xtl="360.70" ytl="0.00" xbr="1517.40" ybr="767.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="672" outside="0" occluded="0" keyframe="1" xtl="375.20" ytl="0.00" xbr="1513.20" ybr="761.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="673" outside="0" occluded="0" keyframe="1" xtl="388.10" ytl="0.00" xbr="1512.10" ybr="753.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="674" outside="0" occluded="0" keyframe="1" xtl="402.80" ytl="0.00" xbr="1509.50" ybr="744.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="675" outside="0" occluded="0" keyframe="1" xtl="418.60" ytl="0.00" xbr="1505.60" ybr="737.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="676" outside="0" occluded="0" keyframe="1" xtl="427.80" ytl="0.00" xbr="1500.30" ybr="730.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="677" outside="0" occluded="0" keyframe="1" xtl="442.30" ytl="0.00" xbr="1495.00" ybr="723.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="678" outside="0" occluded="0" keyframe="1" xtl="451.50" ytl="0.00" xbr="1489.70" ybr="717.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="679" outside="0" occluded="0" keyframe="1" xtl="464.70" ytl="0.00" xbr="1487.10" ybr="713.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="680" outside="0" occluded="0" keyframe="1" xtl="475.20" ytl="0.00" xbr="1480.50" ybr="709.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="681" outside="0" occluded="0" keyframe="1" xtl="484.40" ytl="0.00" xbr="1473.90" ybr="703.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="682" outside="0" occluded="0" keyframe="1" xtl="492.30" ytl="0.00" xbr="1471.30" ybr="702.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="683" outside="0" occluded="0" keyframe="1" xtl="498.90" ytl="0.00" xbr="1462.10" ybr="698.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="684" outside="0" occluded="0" keyframe="1" xtl="504.90" ytl="0.00" xbr="1456.80" ybr="694.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="685" outside="0" occluded="0" keyframe="1" xtl="510.20" ytl="0.00" xbr="1447.60" ybr="689.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="686" outside="0" occluded="0" keyframe="1" xtl="517.60" ytl="0.00" xbr="1442.30" ybr="689.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="687" outside="0" occluded="0" keyframe="1" xtl="526.60" ytl="0.00" xbr="1441.00" ybr="689.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="688" outside="0" occluded="0" keyframe="1" xtl="538.60" ytl="0.00" xbr="1441.00" ybr="688.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="689" outside="0" occluded="0" keyframe="1" xtl="550.30" ytl="0.00" xbr="1444.60" ybr="687.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="690" outside="1" occluded="0" keyframe="1" xtl="550.30" ytl="6.50" xbr="1447.60" ybr="689.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="24" label="trouser">
+    <box frame="659" outside="0" occluded="0" keyframe="1" xtl="251.60" ytl="391.70" xbr="1545.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="660" outside="0" occluded="0" keyframe="1" xtl="257.70" ytl="383.60" xbr="1538.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="661" outside="0" occluded="0" keyframe="1" xtl="266.70" ytl="376.20" xbr="1534.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="662" outside="0" occluded="0" keyframe="1" xtl="275.40" ytl="365.60" xbr="1529.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="663" outside="0" occluded="0" keyframe="1" xtl="286.30" ytl="353.30" xbr="1526.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="664" outside="0" occluded="0" keyframe="1" xtl="295.10" ytl="345.50" xbr="1518.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="665" outside="0" occluded="0" keyframe="1" xtl="304.30" ytl="335.40" xbr="1514.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="666" outside="0" occluded="0" keyframe="1" xtl="313.50" ytl="323.60" xbr="1510.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="667" outside="0" occluded="0" keyframe="1" xtl="324.00" ytl="319.00" xbr="1513.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="668" outside="0" occluded="0" keyframe="1" xtl="334.90" ytl="308.20" xbr="1511.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="669" outside="0" occluded="0" keyframe="1" xtl="346.60" ytl="305.10" xbr="1504.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="670" outside="0" occluded="0" keyframe="1" xtl="359.60" ytl="300.50" xbr="1495.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="671" outside="0" occluded="0" keyframe="1" xtl="372.80" ytl="294.30" xbr="1497.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="672" outside="0" occluded="0" keyframe="1" xtl="388.60" ytl="293.70" xbr="1497.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="673" outside="0" occluded="0" keyframe="1" xtl="401.20" ytl="293.30" xbr="1496.32" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="674" outside="0" occluded="0" keyframe="1" xtl="417.60" ytl="293.30" xbr="1491.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="675" outside="0" occluded="0" keyframe="1" xtl="430.20" ytl="293.30" xbr="1487.60" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="676" outside="0" occluded="0" keyframe="1" xtl="441.30" ytl="293.30" xbr="1481.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="677" outside="0" occluded="0" keyframe="1" xtl="452.90" ytl="294.80" xbr="1475.30" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="678" outside="0" occluded="0" keyframe="1" xtl="464.20" ytl="296.40" xbr="1469.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="679" outside="0" occluded="0" keyframe="1" xtl="476.00" ytl="297.90" xbr="1463.80" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="680" outside="0" occluded="0" keyframe="1" xtl="486.20" ytl="299.50" xbr="1457.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="681" outside="0" occluded="0" keyframe="1" xtl="496.30" ytl="306.50" xbr="1448.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="682" outside="0" occluded="0" keyframe="1" xtl="503.70" ytl="308.70" xbr="1441.90" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="683" outside="0" occluded="0" keyframe="1" xtl="509.70" ytl="311.80" xbr="1433.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="684" outside="0" occluded="0" keyframe="1" xtl="515.60" ytl="313.30" xbr="1424.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="685" outside="0" occluded="0" keyframe="1" xtl="520.40" ytl="317.50" xbr="1417.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="686" outside="0" occluded="0" keyframe="1" xtl="528.30" ytl="317.50" xbr="1408.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="687" outside="0" occluded="0" keyframe="1" xtl="536.00" ytl="320.60" xbr="1405.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="688" outside="0" occluded="0" keyframe="1" xtl="547.40" ytl="325.20" xbr="1402.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="689" outside="0" occluded="0" keyframe="1" xtl="558.80" ytl="324.90" xbr="1401.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="690" outside="1" occluded="0" keyframe="1" xtl="561.00" ytl="324.90" xbr="1401.50" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+  <track id="25" label="t-shirt">
+    <box frame="690" outside="0" occluded="0" keyframe="1" xtl="935.20" ytl="566.30" xbr="1667.38" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="691" outside="0" occluded="0" keyframe="1" xtl="932.10" ytl="554.40" xbr="1693.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="692" outside="0" occluded="0" keyframe="1" xtl="931.60" ytl="545.90" xbr="1726.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="693" outside="0" occluded="0" keyframe="1" xtl="933.60" ytl="542.10" xbr="1762.13" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="694" outside="0" occluded="0" keyframe="1" xtl="934.70" ytl="538.80" xbr="1782.90" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="695" outside="0" occluded="0" keyframe="1" xtl="936.00" ytl="540.60" xbr="1792.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="696" outside="0" occluded="0" keyframe="1" xtl="939.10" ytl="545.20" xbr="1796.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="697" outside="0" occluded="0" keyframe="1" xtl="941.40" ytl="556.50" xbr="1792.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="698" outside="0" occluded="0" keyframe="1" xtl="943.80" ytl="570.40" xbr="1781.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="699" outside="0" occluded="0" keyframe="1" xtl="946.30" ytl="583.50" xbr="1758.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="700" outside="0" occluded="0" keyframe="1" xtl="948.90" ytl="595.90" xbr="1742.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="701" outside="0" occluded="0" keyframe="1" xtl="951.50" ytl="608.60" xbr="1725.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="702" outside="0" occluded="0" keyframe="1" xtl="954.90" ytl="618.00" xbr="1704.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="703" outside="0" occluded="0" keyframe="1" xtl="960.20" ytl="623.10" xbr="1702.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="704" outside="0" occluded="0" keyframe="1" xtl="961.10" ytl="629.10" xbr="1696.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="705" outside="0" occluded="0" keyframe="1" xtl="959.20" ytl="632.10" xbr="1676.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="706" outside="0" occluded="0" keyframe="1" xtl="954.90" ytl="630.10" xbr="1660.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="707" outside="0" occluded="0" keyframe="1" xtl="954.90" ytl="626.50" xbr="1655.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="708" outside="0" occluded="0" keyframe="1" xtl="962.80" ytl="620.20" xbr="1660.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="709" outside="0" occluded="0" keyframe="1" xtl="970.90" ytl="612.60" xbr="1676.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="710" outside="0" occluded="0" keyframe="1" xtl="976.50" ytl="605.00" xbr="1688.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="711" outside="0" occluded="0" keyframe="1" xtl="981.30" ytl="595.80" xbr="1702.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="712" outside="0" occluded="0" keyframe="1" xtl="989.60" ytl="583.80" xbr="1730.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="713" outside="0" occluded="0" keyframe="1" xtl="999.80" ytl="571.30" xbr="1771.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="714" outside="0" occluded="0" keyframe="1" xtl="1010.70" ytl="559.50" xbr="1827.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="715" outside="0" occluded="0" keyframe="1" xtl="1022.10" ytl="550.60" xbr="1850.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="716" outside="0" occluded="0" keyframe="1" xtl="1033.00" ytl="544.60" xbr="1890.90" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="717" outside="0" occluded="0" keyframe="1" xtl="1044.80" ytl="543.10" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="718" outside="0" occluded="0" keyframe="1" xtl="1056.60" ytl="542.50" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="719" outside="0" occluded="0" keyframe="1" xtl="1064.10" ytl="547.90" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="720" outside="0" occluded="0" keyframe="1" xtl="1067.60" ytl="556.20" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="721" outside="0" occluded="0" keyframe="1" xtl="1069.70" ytl="568.50" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="722" outside="0" occluded="0" keyframe="1" xtl="1070.10" ytl="579.20" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="723" outside="0" occluded="0" keyframe="1" xtl="1068.20" ytl="587.30" xbr="1920.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="724" outside="0" occluded="0" keyframe="1" xtl="1069.70" ytl="589.90" xbr="1901.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="725" outside="0" occluded="0" keyframe="1" xtl="1069.70" ytl="590.80" xbr="1884.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="726" outside="0" occluded="0" keyframe="1" xtl="1071.50" ytl="595.50" xbr="1873.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="727" outside="0" occluded="0" keyframe="1" xtl="1073.60" ytl="606.10" xbr="1858.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="728" outside="0" occluded="0" keyframe="1" xtl="1069.70" ytl="619.30" xbr="1834.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="729" outside="0" occluded="0" keyframe="1" xtl="1062.30" ytl="632.50" xbr="1811.90" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="730" outside="0" occluded="0" keyframe="1" xtl="1056.60" ytl="641.20" xbr="1781.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="731" outside="0" occluded="0" keyframe="1" xtl="1048.80" ytl="647.50" xbr="1759.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="732" outside="0" occluded="0" keyframe="1" xtl="1043.50" ytl="653.20" xbr="1740.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="733" outside="0" occluded="0" keyframe="1" xtl="1038.20" ytl="664.60" xbr="1719.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="734" outside="0" occluded="0" keyframe="1" xtl="1032.90" ytl="678.00" xbr="1690.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="735" outside="0" occluded="0" keyframe="1" xtl="1027.70" ytl="693.10" xbr="1656.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="736" outside="0" occluded="0" keyframe="1" xtl="1019.70" ytl="710.20" xbr="1610.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="737" outside="0" occluded="0" keyframe="1" xtl="1004.30" ytl="727.50" xbr="1550.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="738" outside="0" occluded="0" keyframe="1" xtl="989.10" ytl="741.60" xbr="1494.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="739" outside="0" occluded="0" keyframe="1" xtl="972.30" ytl="747.70" xbr="1440.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="740" outside="1" occluded="0" keyframe="1" xtl="972.30" ytl="745.50" xbr="1440.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+  </track>
+  <track id="26" label="t-shirt">
+    <box frame="740" outside="0" occluded="0" keyframe="1" xtl="942.38" ytl="256.30" xbr="1287.20" ybr="590.70">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="741" outside="0" occluded="0" keyframe="1" xtl="942.38" ytl="253.30" xbr="1285.80" ybr="592.20">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="742" outside="0" occluded="0" keyframe="1" xtl="942.38" ytl="249.30" xbr="1283.20" ybr="601.20">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="743" outside="0" occluded="0" keyframe="1" xtl="949.00" ytl="249.90" xbr="1278.60" ybr="612.60">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="744" outside="0" occluded="0" keyframe="1" xtl="959.50" ytl="249.90" xbr="1271.80" ybr="630.20">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="745" outside="0" occluded="0" keyframe="1" xtl="959.50" ytl="253.80" xbr="1268.80" ybr="637.90">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="746" outside="0" occluded="0" keyframe="1" xtl="956.90" ytl="253.80" xbr="1264.90" ybr="641.40">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="747" outside="0" occluded="0" keyframe="1" xtl="956.90" ytl="256.40" xbr="1264.90" ybr="647.40">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="748" outside="0" occluded="0" keyframe="1" xtl="956.90" ytl="263.00" xbr="1264.90" ybr="656.40">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="749" outside="0" occluded="0" keyframe="1" xtl="956.90" ytl="263.00" xbr="1271.50" ybr="660.40">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="750" outside="0" occluded="0" keyframe="1" xtl="976.63" ytl="259.93" xbr="1276.65" ybr="665.20">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="751" outside="0" occluded="0" keyframe="1" xtl="996.37" ytl="256.87" xbr="1281.80" ybr="666.90">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="752" outside="0" occluded="0" keyframe="1" xtl="1016.10" ytl="253.80" xbr="1293.70" ybr="674.90">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="753" outside="0" occluded="0" keyframe="1" xtl="1008.30" ytl="248.50" xbr="1300.30" ybr="676.20">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="754" outside="0" occluded="0" keyframe="1" xtl="1000.30" ytl="238.00" xbr="1307.00" ybr="676.20">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="755" outside="0" occluded="0" keyframe="1" xtl="992.60" ytl="240.00" xbr="1316.40" ybr="684.10">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="756" outside="0" occluded="0" keyframe="1" xtl="975.50" ytl="235.30" xbr="1331.80" ybr="689.40">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="757" outside="0" occluded="0" keyframe="1" xtl="963.50" ytl="228.00" xbr="1333.30" ybr="693.30">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="758" outside="0" occluded="0" keyframe="1" xtl="954.50" ytl="221.40" xbr="1339.60" ybr="695.30">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="759" outside="0" occluded="0" keyframe="1" xtl="944.70" ytl="216.90" xbr="1352.00" ybr="699.90">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="760" outside="0" occluded="0" keyframe="1" xtl="924.50" ytl="209.00" xbr="1357.10" ybr="697.30">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="761" outside="0" occluded="0" keyframe="1" xtl="914.50" ytl="202.90" xbr="1359.60" ybr="694.60">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="762" outside="0" occluded="0" keyframe="1" xtl="904.40" ytl="200.00" xbr="1363.20" ybr="683.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="763" outside="0" occluded="0" keyframe="1" xtl="895.60" ytl="197.20" xbr="1363.90" ybr="665.70">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="764" outside="0" occluded="0" keyframe="1" xtl="878.00" ytl="195.60" xbr="1372.80" ybr="674.40">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="765" outside="0" occluded="0" keyframe="1" xtl="872.80" ytl="194.60" xbr="1374.20" ybr="677.70">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="766" outside="0" occluded="0" keyframe="1" xtl="863.50" ytl="194.60" xbr="1376.50" ybr="683.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="767" outside="0" occluded="0" keyframe="1" xtl="855.00" ytl="195.50" xbr="1377.90" ybr="688.10">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="768" outside="0" occluded="0" keyframe="1" xtl="837.30" ytl="199.00" xbr="1374.90" ybr="700.80">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="769" outside="0" occluded="0" keyframe="1" xtl="831.30" ytl="202.60" xbr="1369.20" ybr="709.80">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="770" outside="0" occluded="0" keyframe="1" xtl="823.80" ytl="208.50" xbr="1363.60" ybr="716.60">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="771" outside="0" occluded="0" keyframe="1" xtl="813.60" ytl="212.90" xbr="1372.80" ybr="724.90">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="772" outside="0" occluded="0" keyframe="1" xtl="799.10" ytl="227.30" xbr="1396.50" ybr="743.50">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="773" outside="0" occluded="0" keyframe="1" xtl="791.20" ytl="236.50" xbr="1409.70" ybr="755.20">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="774" outside="0" occluded="0" keyframe="1" xtl="785.90" ytl="249.70" xbr="1422.90" ybr="768.70">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="775" outside="0" occluded="0" keyframe="1" xtl="778.00" ytl="257.60" xbr="1430.80" ybr="787.30">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="776" outside="0" occluded="0" keyframe="1" xtl="764.80" ytl="285.20" xbr="1450.50" ybr="829.70">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="777" outside="0" occluded="0" keyframe="1" xtl="760.10" ytl="303.50" xbr="1461.20" ybr="862.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="778" outside="0" occluded="0" keyframe="1" xtl="752.40" ytl="319.40" xbr="1462.40" ybr="884.30">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="779" outside="0" occluded="0" keyframe="1" xtl="743.50" ytl="335.20" xbr="1468.20" ybr="892.80">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="780" outside="0" occluded="0" keyframe="1" xtl="704.24" ytl="386.52" xbr="1490.40" ybr="977.60">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="781" outside="0" occluded="0" keyframe="1" xtl="684.30" ytl="416.78" xbr="1504.20" ybr="1071.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="782" outside="0" occluded="0" keyframe="1" xtl="665.30" ytl="453.60" xbr="1480.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="783" outside="0" occluded="0" keyframe="1" xtl="654.00" ytl="486.50" xbr="1474.50" ybr="1078.90">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="784" outside="0" occluded="0" keyframe="1" xtl="633.80" ytl="585.20" xbr="1410.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="785" outside="0" occluded="0" keyframe="1" xtl="646.60" ytl="637.60" xbr="1367.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="786" outside="0" occluded="0" keyframe="1" xtl="663.60" ytl="693.10" xbr="1321.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="787" outside="1" occluded="0" keyframe="1" xtl="666.00" ytl="733.80" xbr="1276.90" ybr="1077.58">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="788" outside="1" occluded="0" keyframe="1" xtl="685.70" ytl="839.10" xbr="1248.00" ybr="1077.58">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="789" outside="1" occluded="0" keyframe="1" xtl="705.40" ytl="886.50" xbr="1237.50" ybr="1077.58">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="790" outside="1" occluded="0" keyframe="1" xtl="725.10" ytl="936.50" xbr="1238.80" ybr="1077.58">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="791" outside="1" occluded="0" keyframe="1" xtl="725.10" ytl="936.50" xbr="1238.80" ybr="1077.58">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+  </track>
+  <track id="27" label="trouser">
+    <box frame="740" outside="0" occluded="0" keyframe="1" xtl="1073.60" ytl="507.77" xbr="1305.00" ybr="1040.67">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="741" outside="0" occluded="0" keyframe="1" xtl="1071.10" ytl="509.90" xbr="1297.10" ybr="1050.20">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="742" outside="0" occluded="0" keyframe="1" xtl="1067.40" ytl="511.10" xbr="1307.30" ybr="1063.10">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="743" outside="0" occluded="0" keyframe="1" xtl="1067.40" ytl="515.30" xbr="1323.50" ybr="1074.90">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="744" outside="0" occluded="0" keyframe="1" xtl="1064.10" ytl="525.30" xbr="1360.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="745" outside="0" occluded="0" keyframe="1" xtl="1058.80" ytl="525.30" xbr="1377.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="746" outside="0" occluded="0" keyframe="1" xtl="1055.40" ytl="527.90" xbr="1394.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="747" outside="0" occluded="0" keyframe="1" xtl="1056.50" ytl="531.60" xbr="1409.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="748" outside="0" occluded="0" keyframe="1" xtl="1054.70" ytl="532.80" xbr="1441.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="749" outside="0" occluded="0" keyframe="1" xtl="1055.70" ytl="532.80" xbr="1454.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="750" outside="0" occluded="0" keyframe="0" xtl="1058.30" ytl="532.80" xbr="1465.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="751" outside="0" occluded="0" keyframe="1" xtl="1060.90" ytl="532.80" xbr="1475.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="752" outside="0" occluded="0" keyframe="1" xtl="1060.00" ytl="532.80" xbr="1495.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="753" outside="0" occluded="0" keyframe="1" xtl="1059.40" ytl="533.13" xbr="1505.27" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="754" outside="0" occluded="0" keyframe="1" xtl="1059.90" ytl="533.47" xbr="1514.03" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="755" outside="0" occluded="0" keyframe="1" xtl="1057.30" ytl="533.80" xbr="1522.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="756" outside="0" occluded="0" keyframe="1" xtl="1049.10" ytl="536.80" xbr="1542.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="757" outside="0" occluded="0" keyframe="1" xtl="1049.60" ytl="530.20" xbr="1547.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="758" outside="0" occluded="0" keyframe="1" xtl="1049.60" ytl="530.20" xbr="1554.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="759" outside="0" occluded="0" keyframe="1" xtl="1046.90" ytl="530.20" xbr="1561.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="760" outside="0" occluded="0" keyframe="1" xtl="1044.60" ytl="530.20" xbr="1578.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="761" outside="0" occluded="0" keyframe="1" xtl="1040.70" ytl="517.00" xbr="1588.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="762" outside="0" occluded="0" keyframe="1" xtl="1037.20" ytl="511.70" xbr="1597.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="763" outside="0" occluded="0" keyframe="1" xtl="1034.80" ytl="509.75" xbr="1609.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="764" outside="0" occluded="0" keyframe="1" xtl="1028.20" ytl="507.80" xbr="1630.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="765" outside="0" occluded="0" keyframe="1" xtl="1020.80" ytl="503.90" xbr="1637.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="766" outside="0" occluded="0" keyframe="1" xtl="1014.80" ytl="503.90" xbr="1643.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="767" outside="0" occluded="0" keyframe="1" xtl="1008.30" ytl="525.30" xbr="1646.80" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="768" outside="0" occluded="0" keyframe="1" xtl="987.90" ytl="535.50" xbr="1649.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="769" outside="0" occluded="0" keyframe="1" xtl="976.80" ytl="545.10" xbr="1646.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="770" outside="0" occluded="0" keyframe="1" xtl="965.20" ytl="555.40" xbr="1642.50" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="771" outside="0" occluded="0" keyframe="1" xtl="948.80" ytl="564.00" xbr="1635.90" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="772" outside="0" occluded="0" keyframe="1" xtl="923.60" ytl="589.00" xbr="1572.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="773" outside="0" occluded="0" keyframe="1" xtl="908.60" ytl="609.90" xbr="1525.30" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="774" outside="0" occluded="0" keyframe="1" xtl="893.30" ytl="623.30" xbr="1480.60" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="775" outside="0" occluded="0" keyframe="1" xtl="887.30" ytl="641.50" xbr="1433.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="776" outside="0" occluded="0" keyframe="1" xtl="859.20" ytl="695.90" xbr="1367.40" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="777" outside="0" occluded="0" keyframe="1" xtl="849.10" ytl="728.00" xbr="1329.70" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="778" outside="0" occluded="0" keyframe="1" xtl="836.00" ytl="753.30" xbr="1303.00" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="779" outside="0" occluded="0" keyframe="1" xtl="828.50" ytl="787.20" xbr="1262.20" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="780" outside="0" occluded="0" keyframe="1" xtl="798.40" ytl="862.00" xbr="1220.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+    <box frame="781" outside="1" occluded="0" keyframe="1" xtl="796.60" ytl="862.00" xbr="1220.10" ybr="1080.00">
+      <attribute name="complexity">0.25</attribute>
+    </box>
+  </track>
+  <track id="28" label="dress">
+    <box frame="0" outside="0" occluded="0" keyframe="1" xtl="498.43" ytl="296.90" xbr="858.80" ybr="789.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="1" outside="0" occluded="0" keyframe="1" xtl="494.40" ytl="300.01" xbr="854.40" ybr="796.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="2" outside="0" occluded="0" keyframe="1" xtl="490.70" ytl="304.80" xbr="853.70" ybr="804.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="3" outside="0" occluded="0" keyframe="1" xtl="489.20" ytl="312.40" xbr="853.30" ybr="816.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="4" outside="0" occluded="0" keyframe="1" xtl="489.60" ytl="321.60" xbr="853.70" ybr="830.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="5" outside="0" occluded="0" keyframe="1" xtl="493.10" ytl="332.20" xbr="854.00" ybr="847.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="6" outside="0" occluded="0" keyframe="1" xtl="493.80" ytl="342.70" xbr="855.20" ybr="864.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="7" outside="0" occluded="0" keyframe="1" xtl="494.50" ytl="356.10" xbr="856.10" ybr="884.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="8" outside="0" occluded="0" keyframe="1" xtl="491.10" ytl="370.60" xbr="858.80" ybr="905.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="9" outside="0" occluded="0" keyframe="1" xtl="489.50" ytl="384.90" xbr="861.70" ybr="925.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="10" outside="0" occluded="0" keyframe="1" xtl="489.00" ytl="394.50" xbr="864.70" ybr="942.70">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="487.80" ytl="399.90" xbr="867.00" ybr="955.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="12" outside="0" occluded="0" keyframe="1" xtl="488.90" ytl="403.11" xbr="871.10" ybr="966.10">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="13" outside="0" occluded="0" keyframe="1" xtl="490.40" ytl="407.60" xbr="884.80" ybr="977.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="14" outside="0" occluded="0" keyframe="0" xtl="489.40" ytl="412.10" xbr="893.75" ybr="989.65">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="15" outside="0" occluded="0" keyframe="1" xtl="488.40" ytl="416.60" xbr="902.70" ybr="1002.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="16" outside="0" occluded="0" keyframe="0" xtl="487.55" ytl="418.35" xbr="906.75" ybr="1011.95">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="17" outside="0" occluded="0" keyframe="1" xtl="486.70" ytl="420.10" xbr="910.80" ybr="1021.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="18" outside="0" occluded="0" keyframe="1" xtl="486.30" ytl="416.95" xbr="918.00" ybr="1027.40">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="19" outside="0" occluded="0" keyframe="1" xtl="491.30" ytl="412.00" xbr="926.64" ybr="1027.50">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="20" outside="0" occluded="0" keyframe="1" xtl="493.00" ytl="401.75" xbr="929.42" ybr="1027.30">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="21" outside="0" occluded="0" keyframe="1" xtl="488.70" ytl="391.50" xbr="932.20" ybr="1032.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="22" outside="0" occluded="0" keyframe="1" xtl="488.40" ytl="389.90" xbr="938.35" ybr="1048.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="23" outside="0" occluded="0" keyframe="1" xtl="486.50" ytl="396.10" xbr="944.49" ybr="1065.20">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="24" outside="0" occluded="0" keyframe="0" xtl="487.85" ytl="408.55" xbr="952.35" ybr="1072.60">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="25" outside="0" occluded="0" keyframe="1" xtl="489.20" ytl="421.00" xbr="960.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="26" outside="0" occluded="0" keyframe="0" xtl="485.85" ytl="431.30" xbr="966.25" ybr="1079.96">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="27" outside="0" occluded="0" keyframe="1" xtl="482.50" ytl="441.60" xbr="972.30" ybr="1079.93">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="28" outside="0" occluded="0" keyframe="1" xtl="472.55" ytl="443.15" xbr="973.90" ybr="1079.89">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="29" outside="0" occluded="0" keyframe="1" xtl="462.60" ytl="444.70" xbr="974.60" ybr="1079.85">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="30" outside="0" occluded="0" keyframe="1" xtl="446.10" ytl="445.40" xbr="972.40" ybr="1079.82">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="31" outside="0" occluded="0" keyframe="1" xtl="429.60" ytl="446.10" xbr="971.90" ybr="1079.78">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="32" outside="0" occluded="0" keyframe="1" xtl="420.05" ytl="448.35" xbr="975.10" ybr="1079.89">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="33" outside="0" occluded="0" keyframe="1" xtl="410.50" ytl="450.60" xbr="982.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="34" outside="0" occluded="0" keyframe="0" xtl="403.75" ytl="454.52" xbr="989.55" ybr="1079.95">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="35" outside="0" occluded="0" keyframe="1" xtl="397.00" ytl="458.44" xbr="997.00" ybr="1079.91">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="36" outside="0" occluded="0" keyframe="1" xtl="391.45" ytl="465.12" xbr="1001.70" ybr="1079.95">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="37" outside="0" occluded="0" keyframe="1" xtl="385.90" ytl="471.80" xbr="1003.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="38" outside="0" occluded="0" keyframe="0" xtl="366.45" ytl="486.20" xbr="1005.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="39" outside="0" occluded="0" keyframe="1" xtl="347.00" ytl="500.60" xbr="1006.70" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="40" outside="0" occluded="0" keyframe="0" xtl="322.75" ytl="519.40" xbr="1007.80" ybr="1079.90">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="41" outside="0" occluded="0" keyframe="1" xtl="298.50" ytl="538.20" xbr="1008.90" ybr="1079.80">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="42" outside="0" occluded="0" keyframe="1" xtl="276.40" ytl="550.10" xbr="1013.65" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="43" outside="0" occluded="0" keyframe="1" xtl="254.30" ytl="554.20" xbr="1018.40" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="44" outside="0" occluded="0" keyframe="0" xtl="236.20" ytl="559.15" xbr="1027.27" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="45" outside="0" occluded="0" keyframe="1" xtl="218.10" ytl="564.10" xbr="1036.13" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="46" outside="0" occluded="0" keyframe="1" xtl="205.55" ytl="563.86" xbr="1047.67" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="47" outside="0" occluded="0" keyframe="1" xtl="193.00" ytl="563.62" xbr="1059.20" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="48" outside="0" occluded="0" keyframe="0" xtl="183.05" ytl="563.39" xbr="1074.15" ybr="1079.91">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="49" outside="0" occluded="0" keyframe="1" xtl="173.10" ytl="563.15" xbr="1089.10" ybr="1079.81">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="50" outside="0" occluded="0" keyframe="0" xtl="165.28" ytl="558.43" xbr="1105.05" ybr="1079.91">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="51" outside="0" occluded="0" keyframe="1" xtl="157.45" ytl="553.70" xbr="1121.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="52" outside="0" occluded="0" keyframe="1" xtl="146.28" ytl="542.50" xbr="1131.55" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="53" outside="0" occluded="0" keyframe="1" xtl="135.10" ytl="540.20" xbr="1142.10" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="54" outside="0" occluded="0" keyframe="0" xtl="128.11" ytl="540.90" xbr="1150.95" ybr="1079.84">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="55" outside="0" occluded="0" keyframe="1" xtl="121.12" ytl="541.60" xbr="1159.80" ybr="1079.67">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="56" outside="0" occluded="0" keyframe="0" xtl="117.86" ytl="544.72" xbr="1167.80" ybr="1079.51">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="57" outside="0" occluded="0" keyframe="1" xtl="114.60" ytl="547.83" xbr="1175.80" ybr="1079.34">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="58" outside="0" occluded="0" keyframe="0" xtl="105.75" ytl="547.62" xbr="1176.70" ybr="1079.18">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="59" outside="0" occluded="0" keyframe="1" xtl="96.90" ytl="547.40" xbr="1177.60" ybr="1079.01">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="60" outside="0" occluded="0" keyframe="0" xtl="88.40" ytl="543.85" xbr="1177.80" ybr="1079.51">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="61" outside="0" occluded="0" keyframe="1" xtl="79.90" ytl="540.30" xbr="1178.00" ybr="1080.00">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+    <box frame="62" outside="1" occluded="0" keyframe="1" xtl="77.30" ytl="555.20" xbr="1179.80" ybr="1078.68">
+      <attribute name="complexity">0.75</attribute>
+    </box>
+  </track>
+</annotations>
